@@ -288,5 +288,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteで櫻坂46の楽曲、MV、ライブ、運営等についての複数記事を確認。RSSの直接取得と公開反映はGitHub Actionsで未検証。個別の掲載許諾を得た意味ではない。"
+  },
+  {
+    "id": "kitoka_",
+    "url": "https://note.com/kitoka_",
+    "feed": "https://note.com/kitoka_/rss",
+    "platform": "note",
+    "name": "Kitoka",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteで櫻坂46の楽曲歌詞・人物考察・ライブ感想など複数の記事を確認。RSSの実取得と公開反映は次回GitHub Actionsで検証。筆者本人の掲載許諾を得たことは意味しない。"
   }
 ]
