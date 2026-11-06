@@ -308,5 +308,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteの欅坂46・櫻坂46の世代交代、藤吉夏鈴とStart over!、森田ひかる等の考察記事を複数確認。RSS取得と公開サイト反映はGitHub Actionsで検証が必要。個別の掲載許諾を得た意味ではない。"
+  },
+  {
+    "id": "thanks_kissme",
+    "url": "https://note.com/thanks_kissme",
+    "feed": "https://note.com/thanks_kissme/rss",
+    "platform": "note",
+    "name": "thanks_kissme",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteのプロフィールと、櫻坂46・田村保乃についての連載『LOVE LETTER』を複数確認。RSSの実取得と公開反映は次のGitHub Actions実行で確認が必要。個別筆者の掲載許諾を得た意味ではない。"
   }
 ]
