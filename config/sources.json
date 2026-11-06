@@ -358,5 +358,14 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteプロフィールと櫻坂46の購買運動、2026年ツアー、四期生LIVEなど複数の考察・感想記事を確認。RSSの実取得と公開反映は次回GitHub Actionsで要検証。個別の掲載許諾取得を意味しない。"
+  },
+  {
+    "id": "halu1023",
+    "url": "https://note.com/halu1023",
+    "feed": "https://note.com/halu1023/rss",
+    "platform": "note",
+    "name": "halu1023（確認待ち）",
+    "enabled": false,
+    "verification": "ユーザー指定URL。2026-11-06時点で公開noteプロフィール・記事内容・RSSの直接確認ができていないため、候補登録のみ。櫻坂46関連の記事の存在とRSS取得を確認してから有効化する。"
   }
 ]
