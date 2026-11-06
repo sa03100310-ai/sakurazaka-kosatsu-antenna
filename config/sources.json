@@ -248,5 +248,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteプロフィールと櫻坂46の考察・感想記事を複数確認。RSSの実取得は次回GitHub Actions実行で検証。個別筆者の利用許諾を得た意味ではない。"
+  },
+  {
+    "id": "sola4959",
+    "url": "https://note.com/sola4959",
+    "feed": "https://note.com/sola4959/rss",
+    "platform": "note",
+    "name": "SOLA",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteの自己紹介と櫻坂46関連の考察・ライブ記事を複数確認。RSSの実取得はGitHub Actionsの収集実行で検証。筆者の個別利用許諾を得た意味ではない。"
   }
 ]
