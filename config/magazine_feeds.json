@@ -28,5 +28,13 @@
     "feed": "https://note.com/lively_fennel526/m/md3e802081709/rss",
     "magazine_url": "https://note.com/lively_fennel526/m/md3e802081709",
     "verification": "2026-11-07: 管理者指定の公開マガジン。MV・振付・ライブ・歌唱など櫻坂46の映像とパフォーマンスを扱う記事を確認。本人執筆記事のみをRSSから取得し、既存レコードとURLで重複排除。"
+  },
+  {
+    "author_id": "sakura_hinata46",
+    "name": "櫻坂46",
+    "feed": "https://note.com/sakura_hinata46/m/m4e2f3485b7ea/rss",
+    "magazine_url": "https://note.com/sakura_hinata46/m/m4e2f3485b7ea",
+    "require_relevance": true,
+    "verification": "2026-11-07: 管理者指定のまさたか（川島 雅隆）公開マガジン『櫻坂46』。本人の記事のみ収録。日常・別グループ中心の記事の混入を防ぐため櫻坂46関連性判定を適用。全過去記事の網羅はRSSでは保証しない。"
   }
 ]
