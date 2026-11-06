@@ -21,5 +21,12 @@
     "magazine_url": "https://note.com/givemeyour/m/m9044aeafb612",
     "require_relevance": true,
     "verification": "2026-11-07: 公開マガジンに櫻坂46関連9本中複数記事を確認。一部の非関連記事を除くため関連性判定を有効化。本人執筆記事のみ。"
+  },
+  {
+    "author_id": "lively_fennel526",
+    "name": "櫻坂46の映像とパフォーマンスを読む",
+    "feed": "https://note.com/lively_fennel526/m/md3e802081709/rss",
+    "magazine_url": "https://note.com/lively_fennel526/m/md3e802081709",
+    "verification": "2026-11-07: 管理者指定の公開マガジン。MV・振付・ライブ・歌唱など櫻坂46の映像とパフォーマンスを扱う記事を確認。本人執筆記事のみをRSSから取得し、既存レコードとURLで重複排除。"
   }
 ]
