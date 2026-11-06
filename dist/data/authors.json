@@ -393,5 +393,13 @@
       "楽曲・歌詞考察",
       "その他の感想・批評"
     ]
+  },
+  {
+    "id": "suzukikenjiro",
+    "name": "鈴木　健治郎",
+    "url": "https://note.com/suzukikenjiro",
+    "platform": "note",
+    "count": 0,
+    "themes": []
   }
 ]
