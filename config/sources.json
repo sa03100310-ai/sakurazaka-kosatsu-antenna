@@ -258,5 +258,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteの自己紹介と櫻坂46関連の考察・ライブ記事を複数確認。RSSの実取得はGitHub Actionsの収集実行で検証。筆者の個別利用許諾を得た意味ではない。"
+  },
+  {
+    "id": "lively_auklet75",
+    "url": "https://note.com/lively_auklet75",
+    "feed": "https://note.com/lively_auklet75/rss",
+    "platform": "note",
+    "name": "ラノリンペースト",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteの櫻坂46関連MV考察とライブ感想を複数確認。RSS実取得は次回GitHub Actions実行時に検証。筆者個別の利用許諾を得た意味ではない。"
   }
 ]
