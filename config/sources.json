@@ -348,5 +348,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteプロフィールが提供画像と一致し、櫻坂46のセンター戦略・四期生・世代交代等の複数の考察記事を確認。RSSの実取得と公開サイト反映は次のGitHub Actions実行で検証。個別筆者の掲載許諾を得たことを意味しない。"
+  },
+  {
+    "id": "kkwus_nmomo",
+    "url": "https://note.com/kkwus_nmomo",
+    "feed": "https://note.com/kkwus_nmomo/rss",
+    "platform": "note",
+    "name": "KEI",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteプロフィールと櫻坂46の購買運動、2026年ツアー、四期生LIVEなど複数の考察・感想記事を確認。RSSの実取得と公開反映は次回GitHub Actionsで要検証。個別の掲載許諾取得を意味しない。"
   }
 ]
