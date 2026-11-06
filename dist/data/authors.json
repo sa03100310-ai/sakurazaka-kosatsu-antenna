@@ -113,6 +113,18 @@
     ]
   },
   {
+    "id": "kn_ykh_1985",
+    "name": "ka2の語り場",
+    "url": "https://note.com/kn_ykh_1985",
+    "platform": "note",
+    "count": 2,
+    "themes": [
+      "グループ運営・アイドル論",
+      "メンバー考察・人物論",
+      "ファンダム・ファン文化"
+    ]
+  },
+  {
     "id": "matobanaoki",
     "name": "matobanaoki",
     "url": "https://note.com/matobanaoki",
@@ -308,6 +320,18 @@
     "themes": [
       "楽曲・歌詞考察",
       "グループ運営・アイドル論",
+      "ダンス・パフォーマンス考察"
+    ]
+  },
+  {
+    "id": "kusofantasy",
+    "name": "ミリョク",
+    "url": "https://note.com/kusofantasy",
+    "platform": "note",
+    "count": 15,
+    "themes": [
+      "メンバー考察・人物論",
+      "そこ曲がったら、櫻坂？",
       "ダンス・パフォーマンス考察"
     ]
   },
