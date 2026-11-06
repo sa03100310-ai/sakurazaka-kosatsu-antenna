@@ -1,1 +1,12 @@
-{"articles": {}, "blocked_urls": [], "blocked_authors": []}
+{
+  "articles": {
+    "https://note.com/givemeyour/n/n0446118b1742": {
+      "status": "excluded"
+    },
+    "https://note.com/givemeyour/n/nee82cd2d9b65": {
+      "status": "excluded"
+    }
+  },
+  "blocked_urls": [],
+  "blocked_authors": []
+}
