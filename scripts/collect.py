@@ -164,6 +164,82 @@ def run(cache_dir=None):
         except Exception as e:log.update(status='error',error=str(e)[:300],last_success=old.get('last_success'))
         statuses.append(log)
         print(sid,log['status'],log.get('items',''),log.get('error',''),flush=True)
+    # Topic-specific note magazine feeds can recover essays missing from the
+    # author's general recent-25 RSS window. Preserve the original author ID.
+    for magazine in read(ROOT/'config/magazine_feeds.json',[]):
+        sid=magazine['author_id']
+        if sid not in allowed:continue
+        source=next(s for s in sources if s['id']==sid)
+        feed=canonical(magazine['feed'])
+        prefix=source['url'].rstrip('/')+'/m/'
+        if not feed.startswith(prefix) or not feed.endswith('/rss'):
+            raise ValueError('Magazine feed must be an RSS URL below its author profile')
+        feed_id='magazine:'+sid+':'+feed.split('/m/',1)[1].split('/',1)[0]
+        old=state.get(feed_id,{})
+        log={'id':sid,'feed_name':magazine.get('name','magazine RSS'),'checked_at':stamp}
+        try:
+            host=urllib.parse.urlsplit(feed).netloc
+            if host not in robots:
+                rp=urllib.robotparser.RobotFileParser()
+                try:
+                    rd,_=fetch('https://'+host+'/robots.txt')
+                    rp.parse(rd.decode('utf-8').splitlines())
+                except urllib.error.HTTPError as e:
+                    if e.code==404:rp.parse([])
+                    else:raise
+                robots[host]=rp
+            if not robots[host].can_fetch(UA,feed):
+                raise ValueError('robots.txt disallows magazine RSS')
+            time.sleep(1)
+            cond={}
+            if old.get('etag'):cond['If-None-Match']=old['etag']
+            if old.get('modified'):cond['If-Modified-Since']=old['modified']
+            data,headers=fetch(feed,cond)
+            items=list(parse(data))
+            if not items:raise ValueError('Empty magazine RSS; previous records retained')
+            count=0
+            home=urllib.parse.urlsplit(source['url'])
+            for item in items:
+                try:u=canonical(item['url'])
+                except ValueError:continue
+                target=urllib.parse.urlsplit(u)
+                # A magazine can contain third-party articles; index only this author.
+                if u in blocked or not item['title'] or target.hostname!=home.hostname or not target.path.startswith(home.path.rstrip('/')+'/n/'):
+                    continue
+                status,reason,cats,members,songs=classify(item['title'],item['text'],rules)
+                pub=item['published_at']
+                if not pub or dt.datetime.fromisoformat(pub)>now+dt.timedelta(minutes=10):
+                    status,reason='pending','マガジンRSSの公開日時が未確認・未来日'
+                else:
+                    status,reason='published','櫻坂46マガジンRSSに収録された筆者本人の記事'
+                override=overrides.get('articles',{}).get(u,{})
+                if pub:status=override.get('status',status)
+                prev=records.get(u,{})
+                records[u]=dict(id=hashlib.sha256(u.encode()).hexdigest()[:20],
+                                url=u,title=item['title'],author_id=sid,
+                                published_at=prev.get('published_at') or pub,
+                                first_seen_at=prev.get('first_seen_at',stamp),
+                                last_seen_at=stamp,status=status,reason=reason,
+                                categories=override.get('categories',cats),
+                                members=members,songs=songs)
+                count+=1
+            state[feed_id]={'etag':headers.get('ETag'),
+                            'modified':headers.get('Last-Modified'),
+                            'last_success':stamp}
+            log.update(status='ok',items=count,last_success=stamp)
+            success+=1
+        except urllib.error.HTTPError as e:
+            if e.code==304:
+                log.update(status='unchanged',last_success=stamp)
+                old['last_success']=stamp;state[feed_id]=old;success+=1
+            else:
+                log.update(status='error',error='HTTP '+str(e.code),
+                           last_success=old.get('last_success'))
+        except Exception as e:
+            log.update(status='error',error=str(e)[:300],
+                       last_success=old.get('last_success'))
+        statuses.append(log)
+        print(feed_id,log['status'],log.get('items',''),log.get('error',''),flush=True)
     # Backfill curator-verified article metadata outside the limited RSS window.
     # RSS entries take precedence. Manual records persist without pretending
     # that their day-precision publication date is an exact timestamp.
