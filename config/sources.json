@@ -388,5 +388,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "ユーザー提供の公開noteプロフィール画像で筆者名「山田 壮真」と櫻坂46のメンバー・番組への見解を述べる複数記事（「櫻坂上半期MVP」「番組に出演してほしい関係者」「森田ひかるさんの今年」など）を確認。RSSの実取得と公開サイト反映は次回GitHub Actionsで要検証。筆者個別の掲載許諾取得を意味しない。"
+  },
+  {
+    "id": "hot_badger7460",
+    "url": "https://note.com/hot_badger7460",
+    "feed": "https://note.com/hot_badger7460/rss",
+    "platform": "note",
+    "name": "二兎える",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "ユーザー提供の公開note記事一覧画像により筆者名「二兎える」と櫻坂46関連の記事「15th BACKS LIVE!! 感想 part1・part2」「新しい坂」「櫻坂の歌詞にツッコんでみよう」などを確認。RSSの実取得と公開サイト反映は次回GitHub Actionsで要検証。個別筆者の掲載許諾取得を意味しない。"
   }
 ]
