@@ -278,5 +278,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteのプロフィールおよび櫻坂46の楽曲・メンバー・フォーメーション考察記事を複数確認。RSSエンドポイントの実取得と記事反映は次回GitHub Actionsで検証。個別筆者の許諾確認を意味しない。"
+  },
+  {
+    "id": "echoyamabikosan",
+    "url": "https://note.com/echoyamabikosan",
+    "feed": "https://note.com/echoyamabikosan/rss",
+    "platform": "note",
+    "name": "やまびこさん",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteで櫻坂46の楽曲、MV、ライブ、運営等についての複数記事を確認。RSSの直接取得と公開反映はGitHub Actionsで未検証。個別の掲載許諾を得た意味ではない。"
   }
 ]
