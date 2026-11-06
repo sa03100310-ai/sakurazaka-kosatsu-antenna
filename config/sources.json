@@ -238,5 +238,15 @@
     "enabled": true,
     "verified_at": "2026-11-06T07:40:06.579Z",
     "verification": "管理者の追加依頼に基づき、公開ブログとRSSの複数の櫻坂46関連記事を確認。個別筆者の利用許諾を得た意味ではない。"
+  },
+  {
+    "id": "bright_gnu360",
+    "url": "https://note.com/bright_gnu360",
+    "feed": "https://note.com/bright_gnu360/rss",
+    "platform": "note",
+    "name": "櫻坂好き",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteプロフィールと櫻坂46の考察・感想記事を複数確認。RSSの実取得は次回GitHub Actions実行で検証。個別筆者の利用許諾を得た意味ではない。"
   }
 ]
