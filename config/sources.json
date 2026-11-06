@@ -408,5 +408,25 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "2026-11-06に公開noteプロフィールと櫻坂46関連のライブ感想・アイドル論・選抜考察（例：『アイドルを「応援する」ということ』『櫻坂46のライブとペンライト論争』）を確認。RSS自体の取得とサイトへの反映は次回GitHub Actionsで検証。個別筆者の掲載許諾取得を意味しない。"
+  },
+  {
+    "id": "kn_ykh_1985",
+    "url": "https://note.com/kn_ykh_1985",
+    "feed": "https://note.com/kn_ykh_1985/rss",
+    "platform": "note",
+    "name": "ka2の語り場",
+    "enabled": true,
+    "verified_at": "2026-11-07",
+    "verification": "公開note記事『企画紹介』『上が詰まっているからこその予定調和？〜TGUT選抜から見えた櫻坂46の問題点』『5th YEAR ANNIVERSARY LIVE』などで櫻坂46関連の感想・考察を確認。RSSの実取得と公開反映は次回GitHub Actionsで要検証。筆者の個別掲載許諾を得たことを意味しない。"
+  },
+  {
+    "id": "kusofantasy",
+    "url": "https://note.com/kusofantasy",
+    "feed": "https://note.com/kusofantasy/rss",
+    "platform": "note",
+    "name": "ミリョク",
+    "enabled": true,
+    "verified_at": "2026-11-07",
+    "verification": "公開note記事『【櫻坂46⑩】アイドルグローバルスタンダード』『【櫻坂46大園玲①】ゲラと毒』『【櫻坂46的野美青①】才能に酔いしれる』などで櫻坂46関連の考察を確認。RSSの実取得と公開反映は次回GitHub Actionsで要検証。筆者の個別掲載許諾を得たことを意味しない。"
   }
 ]
