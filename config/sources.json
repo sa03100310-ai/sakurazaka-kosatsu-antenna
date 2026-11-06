@@ -374,8 +374,9 @@
     "url": "https://note.com/clever_beetle339",
     "feed": "https://note.com/clever_beetle339/rss",
     "platform": "note",
-    "name": "clever_beetle339（確認待ち）",
-    "enabled": false,
-    "verification": "ユーザー指定URL。2026-11-06時点で公開noteプロフィール、櫻坂46関連記事、RSS実取得を確認できていないため、掲載せず候補として登録。記事内容およびRSSが確認できた時点で有効化する。"
+    "name": "視差 / SHISA",
+    "enabled": true,
+    "verification": "2026-11-06、ユーザー提供の公開note記事一覧画像で筆者名「視差 / SHISA」と櫻坂46の考察記事『櫻坂46は、なぜ愛を歌い始めたのか？』『「僕」は誰から自由になるのか？――櫻坂46の「Start over!」』を確認。RSSの実取得とサイト反映は次回GitHub Actionsで要検証。筆者個別の掲載許諾取得を意味しない。",
+    "verified_at": "2026-11-06"
   }
 ]
