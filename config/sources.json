@@ -328,5 +328,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteの櫻坂46楽曲・歌詞考察、ライブ考察、アイドル論の複数の記事を確認。RSSの実取得と公開反映はGitHub Actions実行で検証が必要。個別筆者の掲載許諾を得た意味ではない。"
+  },
+  {
+    "id": "wise_yarrow1996",
+    "url": "https://note.com/wise_yarrow1996",
+    "feed": "https://note.com/wise_yarrow1996/rss",
+    "platform": "note",
+    "name": "かぜまち",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteにおいて櫻坂46の選抜制度、楽曲・歌詞、生歌、ライブ、メンバーに関する複数の記事を確認。RSSの実取得および公開サイトへの反映は次回GitHub Actions実行時に確認が必要。筆者個別の掲載許諾を得た意味ではない。"
   }
 ]
