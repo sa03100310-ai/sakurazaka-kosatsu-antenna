@@ -1,4 +1,4 @@
-"""RSS/Atom only. No article scraping, no body storage, no third-party packages."""
+"""RSS/Atom plus manually verified metadata. No article scraping, body storage, or third-party packages."""
 import argparse, datetime as dt, email.utils, hashlib, html, ipaddress, json, pathlib, re, socket, sys, time, unicodedata
 import urllib.request, urllib.error, urllib.parse, urllib.robotparser
 import xml.etree.ElementTree as ET
@@ -164,6 +164,36 @@ def run(cache_dir=None):
         except Exception as e:log.update(status='error',error=str(e)[:300],last_success=old.get('last_success'))
         statuses.append(log)
         print(sid,log['status'],log.get('items',''),log.get('error',''),flush=True)
+    # Backfill curator-verified article metadata outside the limited RSS window.
+    # RSS entries take precedence. Manual records persist without pretending
+    # that their day-precision publication date is an exact timestamp.
+    manually_added=0
+    source_by_id={s['id']:s for s in sources}
+    for item in read(ROOT/'config/manual_articles.json',[]):
+        sid=item['author_id']
+        if sid not in allowed:continue
+        src=source_by_id[sid]
+        u=canonical(item['url'])
+        home=urllib.parse.urlsplit(src['url']);target=urllib.parse.urlsplit(u)
+        if target.hostname!=home.hostname or (home.hostname=='note.com' and not target.path.startswith(home.path.rstrip('/')+'/n/')):
+            raise ValueError('Manual article URL is outside its author feed')
+        if u in blocked or u in records:continue
+        pub=dt.date.fromisoformat(item['published_at'])
+        if pub>now.date():raise ValueError('Manual article date is in the future')
+        cats=item.get('categories',[])
+        if not cats or any(c not in rules['categories'] for c in cats):
+            raise ValueError('Unknown manual article category')
+        title=item['title'].strip()
+        if not title:raise ValueError('Empty manual article title')
+        _,_,_,members,songs=classify(title,'',rules)
+        records[u]=dict(id=hashlib.sha256(u.encode()).hexdigest()[:20],
+                        url=u,title=title,author_id=sid,
+                        published_at=pub.isoformat(),first_seen_at=stamp,
+                        last_seen_at=stamp,status='published',
+                        reason='管理者が元記事のタイトル・URL・公開日を照合して追加',
+                        categories=cats,members=members,songs=songs)
+        manually_added+=1
+    if manually_added:print('Manually backfilled:',manually_added,flush=True)
     # Apply moderation also to articles no longer present in recent feeds.
     for u,a in records.items():
         o=overrides.get('articles',{}).get(u,{})
