@@ -398,5 +398,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "ユーザー提供の公開note記事一覧画像により筆者名「二兎える」と櫻坂46関連の記事「15th BACKS LIVE!! 感想 part1・part2」「新しい坂」「櫻坂の歌詞にツッコんでみよう」などを確認。RSSの実取得と公開サイト反映は次回GitHub Actionsで要検証。個別筆者の掲載許諾取得を意味しない。"
+  },
+  {
+    "id": "ddmaru_saku",
+    "url": "https://note.com/ddmaru_saku",
+    "feed": "https://note.com/ddmaru_saku/rss",
+    "platform": "note",
+    "name": "だいだいまる",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "2026-11-06に公開noteプロフィールと櫻坂46関連のライブ感想・アイドル論・選抜考察（例：『アイドルを「応援する」ということ』『櫻坂46のライブとペンライト論争』）を確認。RSS自体の取得とサイトへの反映は次回GitHub Actionsで検証。個別筆者の掲載許諾取得を意味しない。"
   }
 ]
