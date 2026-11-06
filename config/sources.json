@@ -268,5 +268,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteの櫻坂46関連MV考察とライブ感想を複数確認。RSS実取得は次回GitHub Actions実行時に検証。筆者個別の利用許諾を得た意味ではない。"
+  },
+  {
+    "id": "cathouse",
+    "url": "https://note.com/cathouse",
+    "feed": "https://note.com/cathouse/rss",
+    "platform": "note",
+    "name": "cathouse",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteのプロフィールおよび櫻坂46の楽曲・メンバー・フォーメーション考察記事を複数確認。RSSエンドポイントの実取得と記事反映は次回GitHub Actionsで検証。個別筆者の許諾確認を意味しない。"
   }
 ]
