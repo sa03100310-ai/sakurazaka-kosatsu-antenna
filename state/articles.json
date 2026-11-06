@@ -324,7 +324,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-28T20:27:27+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -382,6 +382,28 @@
     "songs": [
       "元凶"
     ]
+  },
+  {
+    "id": "a236127132b93456479f",
+    "url": "https://note.com/bright_gnu360/n/ne19dbaaf0ae6",
+    "title": "増本綺良の卒業に寄せて",
+    "author_id": "bright_gnu360",
+    "published_at": "2026-10-28T10:39:16+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "メンバー考察・人物論",
+      "ダンス・パフォーマンス考察",
+      "グループ運営・アイドル論",
+      "ファンダム・ファン文化"
+    ],
+    "members": [
+      "武元唯衣",
+      "増本綺良"
+    ],
+    "songs": []
   },
   {
     "id": "56df393ea13453a3ee6b",
@@ -481,7 +503,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-26T19:48:46+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -704,7 +726,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-21T06:22:33+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -851,7 +873,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-19T23:42:05+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -1276,7 +1298,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-14T10:17:40+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -1411,7 +1433,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-12T10:54:40+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1463,7 +1485,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-11T02:06:05+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -1551,7 +1573,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-09T10:23:24+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -1585,7 +1607,7 @@
     "author_id": "tkfuji",
     "published_at": "2026-10-08T14:20:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -1656,7 +1678,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-08T08:24:40+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -1731,7 +1753,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-07T05:38:50+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -1766,7 +1788,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-06T19:59:22+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -1894,7 +1916,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-05T06:28:59+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -1922,6 +1944,24 @@
     ],
     "songs": [
       "愛 MUST BE"
+    ]
+  },
+  {
+    "id": "0beb244693cc391e8763",
+    "url": "https://note.com/bright_gnu360/n/n2c3fae09c9c3",
+    "title": "櫻坂46 16th single BACKS曲『自称バレエダンサー』感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2026-10-04T11:12:03+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": [
+      "自称バレエダンサー"
     ]
   },
   {
@@ -2003,7 +2043,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-03T11:51:47+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "楽曲名と関連文脈",
     "categories": [
@@ -2038,7 +2078,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-03T00:04:40+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -2161,7 +2201,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-01T21:59:25+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2177,7 +2217,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-01T04:02:33+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "楽曲名と関連文脈",
     "categories": [
@@ -2316,7 +2356,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-29T21:05:20+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -2565,7 +2605,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-25T23:08:24+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2695,7 +2735,7 @@
     "author_id": "serene_shark4853",
     "published_at": "2026-09-25T04:38:14+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2711,7 +2751,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-25T04:10:32+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2903,7 +2943,7 @@
     "author_id": "tkfuji",
     "published_at": "2026-09-21T14:40:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -2934,7 +2974,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-21T14:35:14+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -3056,7 +3096,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-20T21:05:13+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -3093,7 +3133,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-20T00:26:01+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -3165,6 +3205,25 @@
     ]
   },
   {
+    "id": "e89575e881ca26818dd6",
+    "url": "https://note.com/bright_gnu360/n/nff8a0c13c660",
+    "title": "櫻坂46 16th single 『愛MUST BE』感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2026-09-18T23:58:10+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察",
+      "ライブ・コンサート"
+    ],
+    "members": [],
+    "songs": [
+      "愛 MUST BE"
+    ]
+  },
+  {
     "id": "147cd914fb86f19d41d8",
     "url": "https://note.com/modern_willet231/n/nf0f3be282474",
     "title": "◢第14回    勝手にそこさくMVP【0914  カッコいいエピソード】",
@@ -3188,7 +3247,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-18T08:19:20+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -3242,7 +3301,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-17T05:52:29+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -3466,7 +3525,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-14T03:08:02+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -3485,7 +3544,7 @@
     "author_id": "tkfuji",
     "published_at": "2026-09-13T14:40:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -4381,7 +4440,7 @@
     "author_id": "serene_shark4853",
     "published_at": "2026-08-18T02:15:58+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4413,7 +4472,7 @@
     "author_id": "tkfuji",
     "published_at": "2026-08-18T01:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -4453,6 +4512,23 @@
       "楽曲・歌詞考察",
       "ライブ・コンサート",
       "グループ運営・アイドル論"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "28ecab2b7255d2f63738",
+    "url": "https://note.com/bright_gnu360/n/nbe96ca3f4981",
+    "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesome?- 千葉公演初日 感想（ネタバレあり）",
+    "author_id": "bright_gnu360",
+    "published_at": "2026-08-16T11:32:57+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "ダンス・パフォーマンス考察",
+      "ライブ・コンサート"
     ],
     "members": [],
     "songs": []
@@ -5000,7 +5076,7 @@
     "author_id": "serene_shark4853",
     "published_at": "2026-07-24T04:53:11+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -5782,6 +5858,25 @@
     "songs": []
   },
   {
+    "id": "22d7f82bf61538108e7d",
+    "url": "https://note.com/bright_gnu360/n/n02f2ec32ad37",
+    "title": "櫻坂46 15th Single 『Lonesome Rabbit』 感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2026-05-22T10:40:00+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": [
+      "承認欲求",
+      "Lonesome rabbit"
+    ]
+  },
+  {
     "id": "0f55eebafd1f651b5209",
     "url": "https://note.com/sakura_hinata46/n/nb025e884cf37",
     "title": "裏切る予想は蜜の味ー櫻坂46 15thシングルフォーメーション発表&MV解禁",
@@ -6184,7 +6279,7 @@
     "author_id": "tkfuji",
     "published_at": "2026-04-19T14:55:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -6222,7 +6317,7 @@
     "author_id": "tkfuji",
     "published_at": "2026-04-18T14:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -6233,6 +6328,26 @@
       "佐藤愛桜"
     ],
     "songs": []
+  },
+  {
+    "id": "062635ab1342ce0c69b6",
+    "url": "https://note.com/bright_gnu360/n/n371b76984b63",
+    "title": "櫻坂46 5th YEAR ANNIVERSARY LIVE Day2 感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2026-04-18T00:21:10+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "ライブ・コンサート"
+    ],
+    "members": [],
+    "songs": [
+      "承認欲求",
+      "自業自得",
+      "The growing up train"
+    ]
   },
   {
     "id": "07b30e3165d6747c6f8a",
@@ -6279,7 +6394,7 @@
     "author_id": "tkfuji",
     "published_at": "2026-04-02T14:40:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -6372,13 +6487,29 @@
     "songs": []
   },
   {
+    "id": "4d68cdf57d57193bac1b",
+    "url": "https://note.com/bright_gnu360/n/n090925eaa92a",
+    "title": "櫻坂46 『光源』 MV感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2026-03-05T12:54:53+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
     "id": "31d845abe8517acce396",
     "url": "https://tkfuji.hatenablog.com/entry/2026/03/02/231000",
     "title": "山下瞳月（しーちゃん）、お披露目3周年！！！おめでとう♪ #山下瞳月 #櫻坂三期生 #櫻坂46",
     "author_id": "tkfuji",
     "published_at": "2026-03-02T14:10:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -6882,13 +7013,31 @@
     "songs": []
   },
   {
+    "id": "77a151e07cbbf1b9052b",
+    "url": "https://note.com/bright_gnu360/n/n5a56712bdfa1",
+    "title": "櫻坂46 2025年発表楽曲全曲レビュー",
+    "author_id": "bright_gnu360",
+    "published_at": "2026-01-13T09:11:59+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察",
+      "ダンス・パフォーマンス考察",
+      "ライブ・コンサート"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
     "id": "9a526a13923457852261",
     "url": "https://tkfuji.hatenablog.com/entry/2026/01/13/080000",
     "title": "谷口愛季（あいりたん）、お披露目3周年！！！おめでとう♪ #谷口愛季 #櫻坂三期生 #櫻坂46",
     "author_id": "tkfuji",
     "published_at": "2026-01-12T23:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -6991,7 +7140,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-12-18T11:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -7043,7 +7192,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-12-14T13:40:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7063,6 +7212,22 @@
       "山川宇衣",
       "山田桃実"
     ],
+    "songs": []
+  },
+  {
+    "id": "7fcd2ec90cd598378aee",
+    "url": "https://note.com/bright_gnu360/n/n6545ab7d8520",
+    "title": "2025年の櫻坂46に感じたことのまとめと2026年の櫻坂46に期待したいこと",
+    "author_id": "bright_gnu360",
+    "published_at": "2025-12-13T11:03:43+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
     "songs": []
   },
   {
@@ -7091,7 +7256,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-12-10T14:55:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7115,7 +7280,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-28T14:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -7133,7 +7298,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-27T14:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -7150,7 +7315,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-25T14:40:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7176,7 +7341,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-22T14:50:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7199,7 +7364,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-17T14:50:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -7216,7 +7381,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-15T14:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -7233,7 +7398,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-15T08:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7250,7 +7415,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-14T14:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7270,7 +7435,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-13T14:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7294,7 +7459,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-12T14:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7317,7 +7482,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-11T15:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7335,7 +7500,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-11T06:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7356,7 +7521,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-10T14:50:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7375,7 +7540,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-09T11:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7395,7 +7560,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-09T02:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7424,7 +7589,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-07T14:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7440,7 +7605,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-06T23:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7463,7 +7628,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-05T03:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7481,13 +7646,63 @@
     "songs": []
   },
   {
-    "id": "61aa08942a5a58ba12f3",
-    "url": "https://note.com/serene_shark4853/n/nd3799df540b1",
-    "title": "ただただ全力で歩いていけ～櫻坂11thシングル「UDAGAWA GENERATION」～",
-    "author_id": "serene_shark4853",
-    "published_at": "2025-02-06T01:45:55+00:00",
-    "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "id": "5dd431ea09c6c3e6a165",
+    "url": "https://note.com/bright_gnu360/n/n618a4e67d0f9",
+    "title": "櫻坂46 13thシングル 『Unhappy birthday構文』感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2025-10-20T08:49:42+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": [
+      "Unhappy birthday構文"
+    ]
+  },
+  {
+    "id": "d482fa8413576db0d943",
+    "url": "https://note.com/bright_gnu360/n/nc56d7c449a2c",
+    "title": "櫻坂46 5th TOUR 2025 “Addiction”東京ドーム Day3 感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2025-07-27T10:17:12+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "ライブ・コンサート"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "973f4eee5e0740466044",
+    "url": "https://note.com/bright_gnu360/n/n08542e2643a7",
+    "title": "櫻坂46 12thシングル \"Make or Break\" MV感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2025-06-14T00:14:43+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "fab7ea92fc88e5bd7292",
+    "url": "https://note.com/bright_gnu360/n/nbde431f06773",
+    "title": "櫻坂46 11thシングル \"UDAGAWA GENERATION\" MV感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2025-02-09T11:51:15+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7497,6 +7712,60 @@
     "songs": [
       "UDAGAWA GENERATION"
     ]
+  },
+  {
+    "id": "61aa08942a5a58ba12f3",
+    "url": "https://note.com/serene_shark4853/n/nd3799df540b1",
+    "title": "ただただ全力で歩いていけ～櫻坂11thシングル「UDAGAWA GENERATION」～",
+    "author_id": "serene_shark4853",
+    "published_at": "2025-02-06T01:45:55+00:00",
+    "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": [
+      "UDAGAWA GENERATION"
+    ]
+  },
+  {
+    "id": "47cb6bd3ec0c991281db",
+    "url": "https://note.com/bright_gnu360/n/n29e316afb825",
+    "title": "櫻坂46の”UDAGAWA GENERATION\"の歌詞がいいという話",
+    "author_id": "bright_gnu360",
+    "published_at": "2025-02-02T04:45:56+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": [
+      "UDAGAWA GENERATION"
+    ]
+  },
+  {
+    "id": "0436cd6328b25811ece8",
+    "url": "https://note.com/bright_gnu360/n/n09750392421f",
+    "title": "櫻坂46 2024年発表楽曲全曲レビュー",
+    "author_id": "bright_gnu360",
+    "published_at": "2025-01-16T22:16:50+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察",
+      "ダンス・パフォーマンス考察",
+      "ライブ・コンサート"
+    ],
+    "members": [],
+    "songs": []
   },
   {
     "id": "5ced9370aea653f73ea3",
@@ -7510,6 +7779,22 @@
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
       "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "6b579cce912ade10c471",
+    "url": "https://note.com/bright_gnu360/n/n75b1e9db537a",
+    "title": "2024年の櫻坂46に感じたことのまとめと2025年の櫻坂46に期待したいこと",
+    "author_id": "bright_gnu360",
+    "published_at": "2024-12-28T12:19:37+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "その他の感想・批評"
     ],
     "members": [],
     "songs": []
@@ -7558,7 +7843,7 @@
     "author_id": "serene_shark4853",
     "published_at": "2024-11-29T06:10:17+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7621,13 +7906,29 @@
     ]
   },
   {
+    "id": "3a38c0fd13d14aebe6d0",
+    "url": "https://note.com/bright_gnu360/n/n47f9b3f2fb10",
+    "title": "櫻坂46 三期生ライブ 大阪公演2日目 感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2024-10-12T12:53:39+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "ライブ・コンサート"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
     "id": "9dc754f56dc195a0c9c6",
     "url": "https://ryouta-mizuking.hatenablog.com/entry/2024/10/10/213500",
     "title": "折り重なった11の偶然が紡ぎ出した未来地図",
     "author_id": "ryouta-mizuking",
     "published_at": "2024-10-10T12:35:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -7656,13 +7957,64 @@
     ]
   },
   {
+    "id": "acc6d70c092fe30b3175",
+    "url": "https://note.com/bright_gnu360/n/nbbb0ef731741",
+    "title": "櫻坂46 10th Single「I want tomorrow to come」 感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2024-09-29T02:30:00+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": [
+      "I want tomorrow to come"
+    ]
+  },
+  {
+    "id": "e1faea1edc4506fc420a",
+    "url": "https://note.com/bright_gnu360/n/n4cc246d1ab31",
+    "title": "バズリズム LIVE -10th Anniversary- 感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2024-07-21T23:48:36+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "ライブ・コンサート"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "4bc5dae4c30f2188baf6",
+    "url": "https://note.com/bright_gnu360/n/nebda7f6b6edf",
+    "title": "「櫻坂46 4th ARENA TOUR 2024 新・櫻前線 -Go on back?- IN 東京ドーム」感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2024-06-18T03:16:22+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察",
+      "ライブ・コンサート"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
     "id": "b99d0f9f5ad835f54f14",
     "url": "https://ryouta-mizuking.hatenablog.com/entry/2024/06/17/193500",
     "title": "到達点ではなく通過点。末恐ろしさを見せつけた櫻坂46。",
     "author_id": "ryouta-mizuking",
     "published_at": "2024-06-17T10:35:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7702,7 +8054,7 @@
     "author_id": "serene_shark4853",
     "published_at": "2024-06-09T12:22:04+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7715,13 +8067,31 @@
     ]
   },
   {
+    "id": "def18e3d0d8d3e2eac51",
+    "url": "https://note.com/bright_gnu360/n/n9ab9186a39a3",
+    "title": "櫻坂46 9th Single「自業自得」 評論",
+    "author_id": "bright_gnu360",
+    "published_at": "2024-06-07T09:06:53+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": [
+      "自業自得"
+    ]
+  },
+  {
     "id": "9bb8838b3f24238a0654",
     "url": "https://ryouta-mizuking.hatenablog.com/entry/2024/05/13/203000",
     "title": "一片の翳りの無い、美しい月を見上げて",
     "author_id": "ryouta-mizuking",
     "published_at": "2024-05-13T11:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -7734,13 +8104,69 @@
     "songs": []
   },
   {
+    "id": "1ff0f68e4a1e62c79163",
+    "url": "https://note.com/bright_gnu360/n/n4c437196afd7",
+    "title": "最近いいなと思った音楽",
+    "author_id": "bright_gnu360",
+    "published_at": "2024-04-29T02:50:35+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "pending",
+    "reason": "関連の手掛かりはあるが主題が不明",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "e1e811ade4b09c15abe5",
+    "url": "https://note.com/bright_gnu360/n/naed897f25ee9",
+    "title": "櫻坂46 4th ARENA TOUR 2024 新・櫻前線 -Go on back? 感想",
+    "author_id": "bright_gnu360",
+    "published_at": "2024-03-30T02:11:03+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "ライブ・コンサート"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "c5710542e9a5ee7c5d0f",
+    "url": "https://note.com/bright_gnu360/n/n0ce279183ef7",
+    "title": "黒い羊とStart over",
+    "author_id": "bright_gnu360",
+    "published_at": "2024-02-04T09:26:10+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "楽曲名と関連文脈",
+    "categories": [
+      "ダンス・パフォーマンス考察",
+      "ライブ・コンサート",
+      "グループ運営・アイドル論",
+      "楽曲・歌詞考察"
+    ],
+    "members": [
+      "小林由依"
+    ],
+    "songs": [
+      "Start over!",
+      "黒い羊"
+    ]
+  },
+  {
     "id": "45001bf5cf93930da40e",
     "url": "https://ryouta-mizuking.hatenablog.com/entry/2024/02/02/211500",
     "title": "あの花は僕が大好きだった人だ",
     "author_id": "ryouta-mizuking",
     "published_at": "2024-02-02T12:15:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -7764,7 +8190,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2024-01-31T05:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -7784,13 +8210,30 @@
     ]
   },
   {
+    "id": "8c36fac8b11d396367ff",
+    "url": "https://note.com/bright_gnu360/n/n08d671feadd8",
+    "title": "2024年の櫻坂に期待していること",
+    "author_id": "bright_gnu360",
+    "published_at": "2024-01-02T09:18:56+00:00",
+    "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
+    "status": "published",
+    "reason": "タイトルにグループ・メンバー・番組名",
+    "categories": [
+      "楽曲・歌詞考察",
+      "ライブ・コンサート"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
     "id": "f6917157bdd79d793aa9",
     "url": "https://rush283.hatenablog.com/entry/2023/04/06/note%E3%81%B8%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%99%E3%80%82",
     "title": "noteへ移行します。",
     "author_id": "rush283",
     "published_at": "2023-04-06T02:32:26+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -7806,7 +8249,7 @@
     "author_id": "rush283",
     "published_at": "2023-03-13T06:20:51+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -7823,7 +8266,7 @@
     "author_id": "rush283",
     "published_at": "2023-03-03T07:51:38+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -7843,7 +8286,7 @@
     "author_id": "rush283",
     "published_at": "2023-03-02T01:48:35+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -7859,7 +8302,7 @@
     "author_id": "rush283",
     "published_at": "2023-02-22T06:29:24+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -7879,7 +8322,7 @@
     "author_id": "hi0220",
     "published_at": "2023-02-16T11:08:44+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -7896,7 +8339,7 @@
     "author_id": "rush283",
     "published_at": "2023-02-16T08:20:51+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -7916,7 +8359,7 @@
     "author_id": "hi0220",
     "published_at": "2023-02-14T19:26:19+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -7940,7 +8383,7 @@
     "author_id": "rush283",
     "published_at": "2023-02-09T08:19:13+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -7956,7 +8399,7 @@
     "author_id": "rush283",
     "published_at": "2023-01-20T08:20:45+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -7974,7 +8417,7 @@
     "author_id": "hi0220",
     "published_at": "2022-12-30T09:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -7992,7 +8435,7 @@
     "author_id": "rush283",
     "published_at": "2022-12-12T07:49:26+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8011,7 +8454,7 @@
     "author_id": "rush283",
     "published_at": "2022-11-15T08:23:34+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -8049,7 +8492,7 @@
     "author_id": "rush283",
     "published_at": "2022-11-04T06:12:01+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -8069,7 +8512,7 @@
     "author_id": "rush283",
     "published_at": "2022-10-27T08:18:31+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8088,7 +8531,7 @@
     "author_id": "rush283",
     "published_at": "2022-09-29T08:23:31+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8104,7 +8547,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2022-09-17T11:17:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8120,7 +8563,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2022-09-17T11:15:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8136,7 +8579,7 @@
     "author_id": "rush283",
     "published_at": "2022-09-01T06:55:55+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8156,7 +8599,7 @@
     "author_id": "rush283",
     "published_at": "2022-08-08T08:19:39+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8173,7 +8616,7 @@
     "author_id": "rush283",
     "published_at": "2022-06-15T08:30:27+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8189,7 +8632,7 @@
     "author_id": "rush283",
     "published_at": "2022-06-10T02:13:30+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8205,7 +8648,7 @@
     "author_id": "rush283",
     "published_at": "2022-05-27T05:00:15+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8221,7 +8664,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2022-05-22T12:15:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -8245,7 +8688,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2022-05-21T07:10:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -8269,7 +8712,7 @@
     "author_id": "hi0220",
     "published_at": "2022-05-16T09:44:08+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8285,7 +8728,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2022-05-11T07:46:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8301,7 +8744,7 @@
     "author_id": "rush283",
     "published_at": "2022-05-10T08:40:25+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8320,7 +8763,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2022-03-31T13:35:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8336,7 +8779,7 @@
     "author_id": "rush283",
     "published_at": "2022-03-28T05:13:27+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8355,7 +8798,7 @@
     "author_id": "rush283",
     "published_at": "2022-03-11T08:54:59+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8371,7 +8814,7 @@
     "author_id": "rush283",
     "published_at": "2022-02-25T01:43:22+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8393,7 +8836,7 @@
     "author_id": "rush283",
     "published_at": "2022-01-17T08:43:05+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -8411,7 +8854,7 @@
     "author_id": "rush283",
     "published_at": "2022-01-11T08:43:08+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8430,7 +8873,7 @@
     "author_id": "rush283",
     "published_at": "2021-12-09T02:26:45+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8447,7 +8890,7 @@
     "author_id": "rush283",
     "published_at": "2021-12-02T04:23:14+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -8471,7 +8914,7 @@
     "author_id": "rush283",
     "published_at": "2021-11-30T02:46:39+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -8487,7 +8930,7 @@
     "author_id": "hi0220",
     "published_at": "2021-10-29T12:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -8511,7 +8954,7 @@
     "author_id": "hi0220",
     "published_at": "2021-10-28T12:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8533,7 +8976,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2021-09-30T13:20:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -8555,7 +8998,7 @@
     "author_id": "rush283",
     "published_at": "2021-09-30T01:09:32+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8571,7 +9014,7 @@
     "author_id": "rush283",
     "published_at": "2021-08-27T08:26:10+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8590,7 +9033,7 @@
     "author_id": "rush283",
     "published_at": "2021-08-20T08:30:17+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -8608,7 +9051,7 @@
     "author_id": "hi0220",
     "published_at": "2021-04-15T12:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -8641,7 +9084,7 @@
     "author_id": "hi0220",
     "published_at": "2021-04-14T23:13:12+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8659,7 +9102,7 @@
     "author_id": "hi0220",
     "published_at": "2021-04-13T12:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8675,7 +9118,7 @@
     "author_id": "hi0220",
     "published_at": "2021-04-09T11:58:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -8697,7 +9140,7 @@
     "author_id": "hi0220",
     "published_at": "2021-03-28T10:17:13+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8715,7 +9158,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-12-08T14:50:56+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -8741,7 +9184,7 @@
     "author_id": "hi0220",
     "published_at": "2020-12-04T13:34:17+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -8761,7 +9204,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-11-24T10:35:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8779,7 +9222,7 @@
     "author_id": "hi0220",
     "published_at": "2020-11-16T05:51:51+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8795,7 +9238,7 @@
     "author_id": "hi0220",
     "published_at": "2020-11-11T05:30:33+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -8825,7 +9268,7 @@
     "author_id": "hi0220",
     "published_at": "2020-11-07T12:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8845,7 +9288,7 @@
     "author_id": "hi0220",
     "published_at": "2020-11-05T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -8861,7 +9304,7 @@
     "author_id": "hi0220",
     "published_at": "2020-11-02T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8877,7 +9320,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-25T14:32:32+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8895,7 +9338,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-23T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8911,7 +9354,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-18T11:12:38+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8928,7 +9371,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-15T09:39:33+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -8944,7 +9387,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-13T13:16:59+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -8977,7 +9420,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-13T04:28:50+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -9006,7 +9449,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-01T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -9022,7 +9465,7 @@
     "author_id": "hi0220",
     "published_at": "2020-09-26T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -9040,7 +9483,7 @@
     "author_id": "hi0220",
     "published_at": "2020-09-14T10:00:13+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "タイトルにグループ・メンバー・番組名",
     "categories": [
@@ -9076,7 +9519,7 @@
     "author_id": "hi0220",
     "published_at": "2020-08-18T10:00:31+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -9099,7 +9542,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-08-14T14:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -9118,7 +9561,7 @@
     "author_id": "hi0220",
     "published_at": "2020-07-21T08:38:22+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -9134,7 +9577,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-06-30T13:10:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -9152,7 +9595,7 @@
     "author_id": "hi0220",
     "published_at": "2020-06-25T10:00:46+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "pending",
     "reason": "告知・自己紹介・宣伝の可能性",
     "categories": [
@@ -9168,7 +9611,7 @@
     "author_id": "hi0220",
     "published_at": "2020-06-24T10:00:05+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -9184,7 +9627,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-06-13T13:10:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -9200,7 +9643,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-05-04T14:25:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "published",
     "reason": "RSS本文にグループ名と考察・感想の文脈",
     "categories": [
@@ -9220,7 +9663,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-04-18T13:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -9237,7 +9680,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-04-14T13:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -9254,7 +9697,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-03-28T11:20:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -9272,7 +9715,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-03-23T10:20:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -9291,7 +9734,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-03-15T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T08:02:31.900430+00:00",
+    "last_seen_at": "2026-11-06T08:16:45.970900+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
