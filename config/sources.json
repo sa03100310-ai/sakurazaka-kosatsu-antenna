@@ -228,5 +228,15 @@
     "enabled": true,
     "verified_at": "2026-11-06T06:15:34.666628+00:00",
     "verification": "公開ブログおよびRSSの複数の関連見出し・配信文を確認。個別筆者の利用許諾を得た意味ではない。"
+  },
+  {
+    "id": "malymo_rinne",
+    "url": "https://note.com/malymo_rinne",
+    "feed": "https://note.com/malymo_rinne/rss",
+    "platform": "note",
+    "name": "まりも🇫🇮",
+    "enabled": true,
+    "verified_at": "2026-11-06T07:40:06.579Z",
+    "verification": "管理者の追加依頼に基づき、公開ブログとRSSの複数の櫻坂46関連記事を確認。個別筆者の利用許諾を得た意味ではない。"
   }
 ]
