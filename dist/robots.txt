@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sa03100310-ai.github.io/sakurazaka-kosatsu-antenna/sitemap.xml
