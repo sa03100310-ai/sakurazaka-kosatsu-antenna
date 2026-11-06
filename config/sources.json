@@ -298,5 +298,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteで櫻坂46の楽曲歌詞・人物考察・ライブ感想など複数の記事を確認。RSSの実取得と公開反映は次回GitHub Actionsで検証。筆者本人の掲載許諾を得たことは意味しない。"
+  },
+  {
+    "id": "light_clover2567",
+    "url": "https://note.com/light_clover2567",
+    "feed": "https://note.com/light_clover2567/rss",
+    "platform": "note",
+    "name": "HxH｜気になるモノを数字と背景から考察して作る",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteの欅坂46・櫻坂46の世代交代、藤吉夏鈴とStart over!、森田ひかる等の考察記事を複数確認。RSS取得と公開サイト反映はGitHub Actionsで検証が必要。個別の掲載許諾を得た意味ではない。"
   }
 ]
