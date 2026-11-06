@@ -207,6 +207,10 @@ def run(cache_dir=None):
                 if u in blocked or not item['title'] or target.hostname!=home.hostname or not target.path.startswith(home.path.rstrip('/')+'/n/'):
                     continue
                 status,reason,cats,members,songs=classify(item['title'],item['text'],rules)
+                # General idol magazines also carry Nogizaka/Hinata-only essays.
+                # Keep only confidently Sakura-relevant records when requested.
+                if magazine.get('require_relevance') and status!='published':
+                    continue
                 pub=item['published_at']
                 if not pub or dt.datetime.fromisoformat(pub)>now+dt.timedelta(minutes=10):
                     status,reason='pending','マガジンRSSの公開日時が未確認・未来日'

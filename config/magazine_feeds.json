@@ -5,5 +5,13 @@
     "feed": "https://note.com/light_clover2567/m/m2e69cffa5d59/rss",
     "magazine_url": "https://note.com/light_clover2567/m/m2e69cffa5d59",
     "verification": "2026-11-07: 管理者指定の櫻坂46関連マガジン。noteの公式マガジンRSSで取得。筆者本人の記事のみ掲載。"
+  },
+  {
+    "author_id": "driftwood",
+    "name": "アイドル（櫻坂46関連のみ）",
+    "feed": "https://note.com/driftwood/m/mf9e78939860f/rss",
+    "magazine_url": "https://note.com/driftwood/m/mf9e78939860f",
+    "require_relevance": true,
+    "verification": "2026-11-07: マガジン『アイドル』は櫻坂46・乃木坂46・日向坂46などを含むため、収集時の櫻坂46関連性判定で公開対象を限定。元筆者の記事のみ。"
   }
 ]
