@@ -6,7 +6,7 @@
     "author_id": "halu1023",
     "published_at": "2026-11-06T15:00:17+00:00",
     "first_seen_at": "2026-11-06T15:13:21.228431+00:00",
-    "last_seen_at": "2026-11-06T15:13:21.228431+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -23,7 +23,7 @@
     "author_id": "driftwood",
     "published_at": "2026-11-06T13:22:32+00:00",
     "first_seen_at": "2026-11-06T14:54:26.883329+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -39,7 +39,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-11-06T12:07:27+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -55,7 +55,7 @@
     "author_id": "malymo_rinne",
     "published_at": "2026-11-06T10:00:30+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -72,7 +72,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-11-06T07:18:00+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -88,7 +88,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-11-06T00:37:02+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -104,7 +104,7 @@
     "author_id": "malymo_rinne",
     "published_at": "2026-11-05T14:00:06+00:00",
     "first_seen_at": "2026-11-06T07:40:28.785866+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -120,7 +120,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-11-05T10:06:59+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -136,7 +136,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-11-05T09:50:52+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -152,7 +152,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-11-05T09:06:18+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -168,7 +168,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-11-05T07:19:32+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -184,7 +184,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-11-05T02:44:40+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -200,7 +200,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-11-05T01:37:02+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -216,7 +216,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-11-04T15:28:24+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -232,7 +232,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-11-04T14:16:20+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -248,7 +248,7 @@
     "author_id": "like_dill7264",
     "published_at": "2026-11-04T12:46:21+00:00",
     "first_seen_at": "2026-11-06T12:42:04.854115+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -273,7 +273,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-11-04T09:52:46+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -289,7 +289,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-11-04T04:12:26+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -321,7 +321,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-11-03T22:41:27+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -337,7 +337,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-11-03T15:16:31+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -353,7 +353,7 @@
     "author_id": "driftwood",
     "published_at": "2026-11-03T14:10:54+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -369,7 +369,7 @@
     "author_id": "novel_oxalis6466",
     "published_at": "2026-11-03T10:50:42+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -385,7 +385,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-11-03T09:37:43+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -401,7 +401,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-11-03T09:33:00+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -417,7 +417,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-11-03T07:41:50+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -433,7 +433,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-11-02T10:47:31+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -449,7 +449,7 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-11-02T10:35:52+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -465,11 +465,27 @@
     "author_id": "light_clover2567",
     "published_at": "2026-11-02T10:26:12+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
       "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "55a7edffff663e01d292",
+    "url": "https://note.com/givemeyour/n/n96d2a226db7f",
+    "title": "2026年11月2日の雑記",
+    "author_id": "givemeyour",
+    "published_at": "2026-11-02T09:23:13+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "ライブ・コンサート"
     ],
     "members": [],
     "songs": []
@@ -481,7 +497,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-11-01T11:45:35+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -497,7 +513,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-11-01T10:22:08+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -513,7 +529,7 @@
     "author_id": "hot_badger7460",
     "published_at": "2026-11-01T07:23:31+00:00",
     "first_seen_at": "2026-11-06T12:44:39.366662+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -529,7 +545,23 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-11-01T01:41:17+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "0888d640600f790111d6",
+    "url": "https://note.com/light_clover2567/n/n0ac2683ef8c3",
+    "title": "キャプテンは、いつキャプテンになるのか。",
+    "author_id": "light_clover2567",
+    "published_at": "2026-11-01T01:34:01+00:00",
+    "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -545,7 +577,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-10-31T23:07:41+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -561,7 +593,7 @@
     "author_id": "driftwood",
     "published_at": "2026-10-31T14:04:21+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -577,7 +609,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-31T10:56:54+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -593,7 +625,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-31T06:29:24+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -626,7 +658,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-31T00:49:54+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -642,7 +674,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-30T10:05:20+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -658,7 +690,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-30T10:04:06+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -674,11 +706,27 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-30T09:42:48+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
       "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "992217c2929499df1376",
+    "url": "https://note.com/givemeyour/n/nebfedc05d502",
+    "title": "ASIAN KUNG-FU GENERATION “Midage Fanclub” を観た話。",
+    "author_id": "givemeyour",
+    "published_at": "2026-10-30T07:28:34+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "ライブ・コンサート"
     ],
     "members": [],
     "songs": []
@@ -690,7 +738,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-10-29T23:58:11+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -706,7 +754,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-29T11:48:57+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -722,7 +770,7 @@
     "author_id": "malymo_rinne",
     "published_at": "2026-10-29T10:00:04+00:00",
     "first_seen_at": "2026-11-06T07:40:28.785866+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -738,7 +786,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-29T09:51:41+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -754,7 +802,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-29T08:36:40+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -770,7 +818,7 @@
     "author_id": "modern_willet231",
     "published_at": "2026-10-28T23:36:12+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -786,7 +834,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-28T20:27:27+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -802,7 +850,7 @@
     "author_id": "sonkami",
     "published_at": "2026-10-28T15:20:39+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -818,7 +866,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-28T10:23:06+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -834,7 +882,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-28T10:00:05+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -850,7 +898,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-28T09:58:27+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -866,7 +914,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-10-28T02:55:44+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -882,7 +930,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-10-28T00:40:44+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -898,7 +946,7 @@
     "author_id": "driftwood",
     "published_at": "2026-10-27T14:06:07+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -914,7 +962,7 @@
     "author_id": "novel_oxalis6466",
     "published_at": "2026-10-27T12:50:44+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -932,7 +980,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-10-27T12:20:15+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -950,7 +998,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-27T11:20:50+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -966,7 +1014,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-27T09:49:06+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -982,7 +1030,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-26T19:48:46+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -998,7 +1046,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-26T13:29:52+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1014,7 +1062,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-10-26T11:46:43+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1030,7 +1078,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-26T10:06:05+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1046,7 +1094,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-26T05:56:37+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1062,7 +1110,7 @@
     "author_id": "hot_badger7460",
     "published_at": "2026-10-26T01:11:51+00:00",
     "first_seen_at": "2026-11-06T12:44:39.366662+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1078,7 +1126,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-25T20:59:56+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1094,7 +1142,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-25T09:33:03+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1110,7 +1158,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-25T04:01:39+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1126,7 +1174,7 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-10-25T03:21:39+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1142,7 +1190,7 @@
     "author_id": "modern_willet231",
     "published_at": "2026-10-25T02:52:02+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1158,7 +1206,7 @@
     "author_id": "novel_oxalis6466",
     "published_at": "2026-10-25T00:27:10+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1174,7 +1222,7 @@
     "author_id": "driftwood",
     "published_at": "2026-10-24T14:03:35+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1190,7 +1238,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-24T09:43:13+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1206,7 +1254,7 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-10-24T08:10:29+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1222,7 +1270,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-24T08:08:55+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1238,7 +1286,7 @@
     "author_id": "sonkami",
     "published_at": "2026-10-23T14:25:45+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -1254,7 +1302,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-23T12:02:03+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1270,7 +1318,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-23T09:27:35+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1286,7 +1334,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-10-23T00:46:18+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -1302,7 +1350,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-22T15:00:38+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1318,7 +1366,7 @@
     "author_id": "novel_oxalis6466",
     "published_at": "2026-10-22T11:03:31+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "告知・自己紹介・宣伝の可能性",
     "categories": [
@@ -1334,7 +1382,7 @@
     "author_id": "echoyamabikosan",
     "published_at": "2026-10-22T05:46:54+00:00",
     "first_seen_at": "2026-11-06T08:26:44.137412+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1350,7 +1398,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-22T05:13:00+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1382,7 +1430,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-21T09:52:47+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1398,7 +1446,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-21T09:47:53+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1414,7 +1462,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-10-21T06:15:53+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1430,7 +1478,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-21T03:06:41+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1446,7 +1494,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-10-21T00:13:46+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1462,7 +1510,7 @@
     "author_id": "sonkami",
     "published_at": "2026-10-20T23:33:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1479,7 +1527,7 @@
     "author_id": "kitoka_",
     "published_at": "2026-10-20T13:55:34+00:00",
     "first_seen_at": "2026-11-06T08:28:23.027912+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1496,7 +1544,7 @@
     "author_id": "light_clover2567",
     "published_at": "2026-10-20T13:37:23+00:00",
     "first_seen_at": "2026-11-06T08:31:12.362469+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1512,7 +1560,7 @@
     "author_id": "novel_oxalis6466",
     "published_at": "2026-10-20T12:10:33+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1528,7 +1576,7 @@
     "author_id": "novel_oxalis6466",
     "published_at": "2026-10-20T11:34:45+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1544,7 +1592,7 @@
     "author_id": "novel_oxalis6466",
     "published_at": "2026-10-20T11:12:36+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1560,7 +1608,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-20T10:51:30+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1576,7 +1624,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-19T23:42:05+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -1594,7 +1642,7 @@
     "author_id": "novel_oxalis6466",
     "published_at": "2026-10-19T21:45:08+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1610,7 +1658,7 @@
     "author_id": "sonkami",
     "published_at": "2026-10-19T15:15:17+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1627,7 +1675,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-19T14:00:56+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1659,7 +1707,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-19T10:44:42+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -1675,7 +1723,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-19T10:07:09+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1691,7 +1739,7 @@
     "author_id": "malymo_rinne",
     "published_at": "2026-10-19T09:30:11+00:00",
     "first_seen_at": "2026-11-06T07:40:28.785866+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -1707,7 +1755,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-10-19T07:43:28+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1723,7 +1771,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-10-18T15:09:23+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1739,7 +1787,7 @@
     "author_id": "driftwood",
     "published_at": "2026-10-18T15:00:27+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1755,7 +1803,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-18T14:14:55+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1771,7 +1819,7 @@
     "author_id": "sonkami",
     "published_at": "2026-10-18T09:17:09+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1787,7 +1835,7 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-10-17T12:50:49+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1803,7 +1851,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-10-17T09:14:45+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1837,7 +1885,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-16T08:43:36+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1853,7 +1901,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-10-15T22:39:04+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -1872,7 +1920,7 @@
     "author_id": "malymo_rinne",
     "published_at": "2026-10-15T11:40:06+00:00",
     "first_seen_at": "2026-11-06T07:40:28.785866+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -1888,7 +1936,7 @@
     "author_id": "novel_oxalis6466",
     "published_at": "2026-10-15T11:15:32+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1904,7 +1952,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-15T10:46:32+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1920,7 +1968,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-15T02:50:03+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1937,7 +1985,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-10-14T13:29:37+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1953,7 +2001,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-14T08:34:06+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1969,7 +2017,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-14T07:56:32+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -1985,7 +2033,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-10-13T22:33:16+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -2004,7 +2052,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-10-13T13:35:41+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2020,7 +2068,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-10-13T02:22:16+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2036,7 +2084,7 @@
     "author_id": "driftwood",
     "published_at": "2026-10-12T12:30:25+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2052,7 +2100,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-12T10:54:40+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2068,7 +2116,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-10-12T01:15:52+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2084,7 +2132,7 @@
     "author_id": "driftwood",
     "published_at": "2026-10-11T16:30:39+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -2116,7 +2164,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-11T08:13:59+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2132,7 +2180,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-10T01:58:49+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2148,7 +2196,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-10-09T23:22:44+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -2165,7 +2213,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-09T09:03:04+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2198,7 +2246,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-08T14:51:01+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2214,7 +2262,7 @@
     "author_id": "clever_beetle339",
     "published_at": "2026-10-08T10:41:27+00:00",
     "first_seen_at": "2026-11-06T12:39:25.485574+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2230,7 +2278,7 @@
     "author_id": "driftwood",
     "published_at": "2026-10-07T12:56:40+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2246,7 +2294,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-07T12:04:52+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2262,7 +2310,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-06T10:02:41+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2294,7 +2342,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-10-06T02:48:36+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2310,7 +2358,7 @@
     "author_id": "hot_badger7460",
     "published_at": "2026-10-05T07:59:15+00:00",
     "first_seen_at": "2026-11-06T12:44:39.366662+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2326,7 +2374,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-05T06:28:59+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -2342,7 +2390,7 @@
     "author_id": "ddmaru_saku",
     "published_at": "2026-10-05T05:03:22+00:00",
     "first_seen_at": "2026-11-06T13:35:43.389483+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -2368,7 +2416,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-10-04T02:29:25+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2384,7 +2432,7 @@
     "author_id": "driftwood",
     "published_at": "2026-10-04T02:05:38+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2400,7 +2448,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-03T11:44:29+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2417,7 +2465,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-03T07:14:40+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2433,7 +2481,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-02T12:19:44+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2449,7 +2497,7 @@
     "author_id": "malymo_rinne",
     "published_at": "2026-10-02T10:00:12+00:00",
     "first_seen_at": "2026-11-06T07:40:28.785866+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -2466,7 +2514,7 @@
     "author_id": "lively_fennel526",
     "published_at": "2026-10-01T22:45:13+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -2482,7 +2530,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-10-01T21:59:25+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2498,7 +2546,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-10-01T09:42:08+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2514,7 +2562,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-29T21:05:20+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -2530,7 +2578,7 @@
     "author_id": "sola4959",
     "published_at": "2026-09-29T17:03:43+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2546,7 +2594,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-09-29T16:41:10+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2562,7 +2610,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-09-29T14:21:37+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2596,7 +2644,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-09-29T03:10:04+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2612,7 +2660,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-09-28T11:17:06+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2628,7 +2676,7 @@
     "author_id": "malymo_rinne",
     "published_at": "2026-09-28T11:00:05+00:00",
     "first_seen_at": "2026-11-06T07:40:28.785866+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2645,7 +2693,23 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-09-28T00:26:54+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "761a57747e0f7c626176",
+    "url": "https://note.com/givemeyour/n/n51c1788ec6cb",
+    "title": "メトロポリスを駆け抜ける話",
+    "author_id": "givemeyour",
+    "published_at": "2026-09-27T15:25:39+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2661,7 +2725,7 @@
     "author_id": "driftwood",
     "published_at": "2026-09-27T14:25:51+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2677,7 +2741,7 @@
     "author_id": "suzukikenjiro",
     "published_at": "2026-09-27T12:33:42+00:00",
     "first_seen_at": "2026-11-06T08:40:09.747508+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2693,7 +2757,7 @@
     "author_id": "modern_willet231",
     "published_at": "2026-09-27T09:32:59+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2710,7 +2774,7 @@
     "author_id": "ddmaru_saku",
     "published_at": "2026-09-26T10:11:00+00:00",
     "first_seen_at": "2026-11-06T13:35:43.389483+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2726,7 +2790,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-25T23:08:24+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2743,7 +2807,7 @@
     "author_id": "echoyamabikosan",
     "published_at": "2026-09-25T21:54:05+00:00",
     "first_seen_at": "2026-11-06T08:26:44.137412+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2760,7 +2824,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-09-25T11:47:35+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2776,7 +2840,7 @@
     "author_id": "serene_shark4853",
     "published_at": "2026-09-25T04:38:14+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2792,7 +2856,7 @@
     "author_id": "tsukagirei",
     "published_at": "2026-09-25T04:10:32+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2825,7 +2889,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-09-24T14:06:31+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2841,7 +2905,7 @@
     "author_id": "hot_badger7460",
     "published_at": "2026-09-24T06:49:06+00:00",
     "first_seen_at": "2026-11-06T12:44:39.366662+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2857,7 +2921,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-09-22T21:02:40+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2873,7 +2937,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-09-22T19:26:17+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2889,7 +2953,7 @@
     "author_id": "malymo_rinne",
     "published_at": "2026-09-22T09:05:05+00:00",
     "first_seen_at": "2026-11-06T07:40:28.785866+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2905,7 +2969,7 @@
     "author_id": "driftwood",
     "published_at": "2026-09-21T15:05:34+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2921,7 +2985,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-09-21T13:57:26+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2937,7 +3001,7 @@
     "author_id": "sonkami",
     "published_at": "2026-09-20T00:07:37+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -2956,7 +3020,7 @@
     "author_id": "ddmaru_saku",
     "published_at": "2026-09-17T04:41:37+00:00",
     "first_seen_at": "2026-11-06T13:35:43.389483+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -2972,7 +3036,7 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-09-16T12:59:42+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -2988,7 +3052,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-09-16T08:23:42+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3020,7 +3084,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-09-15T15:35:18+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3036,7 +3100,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-09-15T11:20:51+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3052,7 +3116,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-09-15T02:13:23+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3084,7 +3148,7 @@
     "author_id": "ddmaru_saku",
     "published_at": "2026-09-13T01:50:06+00:00",
     "first_seen_at": "2026-11-06T13:35:43.389483+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3100,7 +3164,7 @@
     "author_id": "sola4959",
     "published_at": "2026-09-12T16:54:14+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3116,7 +3180,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-09-12T16:18:31+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3148,7 +3212,7 @@
     "author_id": "mio_yu_know",
     "published_at": "2026-09-11T08:31:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3164,7 +3228,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-09-10T17:59:43+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3180,7 +3244,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-09-10T15:33:54+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -3198,7 +3262,7 @@
     "author_id": "driftwood",
     "published_at": "2026-09-10T12:41:57+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -3214,7 +3278,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-09-10T11:20:46+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3247,7 +3311,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-09-08T15:38:58+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3263,7 +3327,7 @@
     "author_id": "malymo_rinne",
     "published_at": "2026-09-08T09:40:06+00:00",
     "first_seen_at": "2026-11-06T07:40:28.785866+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3279,7 +3343,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-09-08T02:57:43+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3295,7 +3359,7 @@
     "author_id": "driftwood",
     "published_at": "2026-09-07T13:51:25+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3311,7 +3375,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-09-06T00:29:01+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3327,7 +3391,7 @@
     "author_id": "malymo_rinne",
     "published_at": "2026-09-05T11:37:11+00:00",
     "first_seen_at": "2026-11-06T07:40:28.785866+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3344,7 +3408,7 @@
     "author_id": "driftwood",
     "published_at": "2026-09-05T10:50:59+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3360,7 +3424,23 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-09-04T11:48:38+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "1b09c2362dac4441fab5",
+    "url": "https://note.com/givemeyour/n/n1cf1524758a5",
+    "title": "草野球の話 2026年8月30日",
+    "author_id": "givemeyour",
+    "published_at": "2026-09-04T08:51:13+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3376,7 +3456,7 @@
     "author_id": "sola4959",
     "published_at": "2026-09-03T16:11:23+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3392,7 +3472,7 @@
     "author_id": "firm_fennel8957",
     "published_at": "2026-09-02T12:18:02+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -3409,7 +3489,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-09-02T09:38:06+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3425,7 +3505,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-09-01T15:57:41+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -3441,7 +3521,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-09-01T15:01:33+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3457,7 +3537,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-09-01T02:08:01+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3473,7 +3553,7 @@
     "author_id": "driftwood",
     "published_at": "2026-08-31T14:51:29+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3505,7 +3585,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-08-29T00:13:52+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3521,7 +3601,23 @@
     "author_id": "sama_migirou",
     "published_at": "2026-08-27T15:32:39+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "c1acc767f8985e291efc",
+    "url": "https://note.com/givemeyour/n/n8eab612dd26d",
+    "title": "サマソニ25周年を3日間見てきた話",
+    "author_id": "givemeyour",
+    "published_at": "2026-08-27T10:02:35+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3537,7 +3633,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-08-27T03:37:53+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3553,7 +3649,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-08-26T14:15:03+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3569,7 +3665,7 @@
     "author_id": "lively_auklet75",
     "published_at": "2026-08-26T06:52:06+00:00",
     "first_seen_at": "2026-11-06T08:22:29.666301+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3601,7 +3697,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-08-25T14:38:33+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3617,7 +3713,7 @@
     "author_id": "driftwood",
     "published_at": "2026-08-25T14:16:07+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -3634,7 +3730,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-08-25T02:53:49+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3667,7 +3763,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-08-23T12:29:38+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3683,7 +3779,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-08-23T12:27:35+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3699,7 +3795,7 @@
     "author_id": "modern_willet231",
     "published_at": "2026-08-23T12:03:15+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3715,7 +3811,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-08-22T01:39:28+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -3731,7 +3827,7 @@
     "author_id": "driftwood",
     "published_at": "2026-08-20T12:54:59+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3763,7 +3859,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-08-19T03:12:12+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3779,7 +3875,7 @@
     "author_id": "echoyamabikosan",
     "published_at": "2026-08-18T23:09:46+00:00",
     "first_seen_at": "2026-11-06T08:26:44.137412+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3811,7 +3907,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-08-18T13:49:20+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3827,7 +3923,7 @@
     "author_id": "serene_shark4853",
     "published_at": "2026-08-18T02:15:58+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3843,7 +3939,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-08-18T02:15:35+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3859,7 +3955,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-08-16T15:07:45+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -3877,7 +3973,7 @@
     "author_id": "thanks_kissme",
     "published_at": "2026-08-16T13:57:58+00:00",
     "first_seen_at": "2026-11-06T08:32:41.421276+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3893,7 +3989,7 @@
     "author_id": "driftwood",
     "published_at": "2026-08-15T13:17:02+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -3925,7 +4021,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-08-13T21:49:46+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -3941,7 +4037,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-08-13T04:44:55+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -3957,7 +4053,7 @@
     "author_id": "sign_at_deep",
     "published_at": "2026-08-13T02:47:29+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4005,7 +4101,7 @@
     "author_id": "driftwood",
     "published_at": "2026-08-06T13:29:30+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4037,7 +4133,23 @@
     "author_id": "driftwood",
     "published_at": "2026-08-05T13:56:59+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "0db58edb4150542eae79",
+    "url": "https://note.com/givemeyour/n/n7f8290f3ab62",
+    "title": "フジロック2026に行った話",
+    "author_id": "givemeyour",
+    "published_at": "2026-08-05T08:33:24+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4053,7 +4165,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-08-03T09:50:11+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4069,7 +4181,7 @@
     "author_id": "hot_badger7460",
     "published_at": "2026-08-03T06:47:53+00:00",
     "first_seen_at": "2026-11-06T12:44:39.366662+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4085,7 +4197,23 @@
     "author_id": "driftwood",
     "published_at": "2026-08-02T08:27:06+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "ed9ecba167c94eddf2bd",
+    "url": "https://note.com/givemeyour/n/n8783bc1d1d0a",
+    "title": "2026年8月1日の雑記",
+    "author_id": "givemeyour",
+    "published_at": "2026-08-01T14:41:59+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4101,7 +4229,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-07-25T18:00:50+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4117,7 +4245,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-07-24T12:02:25+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4133,7 +4261,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-07-23T14:10:47+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -4167,7 +4295,7 @@
     "author_id": "driftwood",
     "published_at": "2026-07-22T07:13:44+00:00",
     "first_seen_at": "2026-11-06T08:35:41.748918+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4183,7 +4311,7 @@
     "author_id": "firm_fennel8957",
     "published_at": "2026-07-21T08:20:42+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4215,7 +4343,7 @@
     "author_id": "echoyamabikosan",
     "published_at": "2026-07-18T14:26:39+00:00",
     "first_seen_at": "2026-11-06T08:26:44.137412+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4265,7 +4393,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-07-16T13:03:55+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -4281,7 +4409,7 @@
     "author_id": "firm_fennel8957",
     "published_at": "2026-07-16T05:42:30+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -4300,7 +4428,7 @@
     "author_id": "firm_fennel8957",
     "published_at": "2026-07-15T14:22:49+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -4355,7 +4483,7 @@
     "author_id": "hot_badger7460",
     "published_at": "2026-07-12T14:21:07+00:00",
     "first_seen_at": "2026-11-06T12:44:39.366662+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4387,7 +4515,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-07-09T13:50:19+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4403,7 +4531,7 @@
     "author_id": "firm_fennel8957",
     "published_at": "2026-07-08T13:54:59+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -4423,7 +4551,7 @@
     "author_id": "sama_migirou",
     "published_at": "2026-07-08T11:08:58+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -4439,7 +4567,7 @@
     "author_id": "kitoka_",
     "published_at": "2026-07-07T13:36:57+00:00",
     "first_seen_at": "2026-11-06T08:28:23.027912+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -4457,7 +4585,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-07-07T03:58:12+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4473,7 +4601,23 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-07-06T10:20:39+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "287ddcc390a17e29db1c",
+    "url": "https://note.com/givemeyour/n/nd6a36e5a675d",
+    "title": "PlayStation®コンソール向け新作ゲームのディスク生産を終了する話。",
+    "author_id": "givemeyour",
+    "published_at": "2026-07-06T09:49:24+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4489,7 +4633,7 @@
     "author_id": "hot_badger7460",
     "published_at": "2026-07-06T01:52:27+00:00",
     "first_seen_at": "2026-11-06T12:44:39.366662+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4521,7 +4665,7 @@
     "author_id": "firm_fennel8957",
     "published_at": "2026-07-03T08:40:10+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -4539,11 +4683,27 @@
     "author_id": "wise_yarrow1996",
     "published_at": "2026-07-02T13:33:30+00:00",
     "first_seen_at": "2026-11-06T08:36:54.145627+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
       "そこ曲がったら、櫻坂？"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "ebfd0ad0e1cccef49bce",
+    "url": "https://note.com/givemeyour/n/n4ab08066e726",
+    "title": "2026年7月2日の雑記",
+    "author_id": "givemeyour",
+    "published_at": "2026-07-02T09:40:42+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
     ],
     "members": [],
     "songs": []
@@ -4555,7 +4715,7 @@
     "author_id": "firm_fennel8957",
     "published_at": "2026-07-01T05:11:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -4574,7 +4734,7 @@
     "author_id": "sakura_hinata46",
     "published_at": "2026-06-29T23:52:21+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4590,7 +4750,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-06-25T11:39:38+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4606,7 +4766,7 @@
     "author_id": "wise_yarrow1996",
     "published_at": "2026-06-20T04:35:02+00:00",
     "first_seen_at": "2026-11-06T08:36:54.145627+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4622,7 +4782,7 @@
     "author_id": "sakura_hinata46",
     "published_at": "2026-06-17T15:13:21+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4639,7 +4799,39 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-06-16T10:34:33+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "251d27c39d6fad25a314",
+    "url": "https://note.com/givemeyour/n/n5e48ca6e1bb0",
+    "title": "あれから",
+    "author_id": "givemeyour",
+    "published_at": "2026-06-15T08:25:28+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "4697089409460c9f0b90",
+    "url": "https://note.com/givemeyour/n/n8c83d48707e1",
+    "title": "007の話",
+    "author_id": "givemeyour",
+    "published_at": "2026-06-14T15:29:27+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4671,7 +4863,7 @@
     "author_id": "ao_urawazakanote",
     "published_at": "2026-06-09T04:58:22+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4687,7 +4879,7 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-06-07T12:03:48+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4703,7 +4895,7 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-06-04T13:59:52+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -4719,7 +4911,7 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-05-31T13:36:35+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4735,7 +4927,7 @@
     "author_id": "mio_yu_know",
     "published_at": "2026-05-27T15:28:32+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -4753,7 +4945,7 @@
     "author_id": "sakura_hinata46",
     "published_at": "2026-05-25T01:44:02+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4769,7 +4961,7 @@
     "author_id": "ddmaru_saku",
     "published_at": "2026-05-19T09:27:20+00:00",
     "first_seen_at": "2026-11-06T13:35:43.389483+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4795,13 +4987,29 @@
     "songs": []
   },
   {
+    "id": "17217fd12d6c278d891d",
+    "url": "https://note.com/givemeyour/n/n36e51d7cc016",
+    "title": "サカナクションのミームの話",
+    "author_id": "givemeyour",
+    "published_at": "2026-05-12T09:41:27+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "ダンス・パフォーマンス考察"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
     "id": "96da48fefe9fa2b5a554",
     "url": "https://note.com/sola4959/n/n9993de2fad3e",
     "title": "インファイターとの戦い方～5thアニラ随筆②～",
     "author_id": "sola4959",
     "published_at": "2026-05-12T09:16:10+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -4833,7 +5041,7 @@
     "author_id": "sakura_hinata46",
     "published_at": "2026-05-05T10:03:37+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -4865,7 +5073,7 @@
     "author_id": "sakura_hinata46",
     "published_at": "2026-04-30T14:57:10+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4881,7 +5089,23 @@
     "author_id": "mio_yu_know",
     "published_at": "2026-04-28T04:25:03+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "b86eabddaac1483d3da2",
+    "url": "https://note.com/givemeyour/n/nf922bf235b3d",
+    "title": "THE YELLOW MONKEY『SICKS』の話",
+    "author_id": "givemeyour",
+    "published_at": "2026-04-14T10:32:33+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4897,7 +5121,7 @@
     "author_id": "wise_yarrow1996",
     "published_at": "2026-04-09T13:10:32+00:00",
     "first_seen_at": "2026-11-06T08:36:54.145627+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4913,7 +5137,7 @@
     "author_id": "lively_auklet75",
     "published_at": "2026-03-31T06:58:55+00:00",
     "first_seen_at": "2026-11-06T08:22:29.666301+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4929,7 +5153,7 @@
     "author_id": "wise_yarrow1996",
     "published_at": "2026-03-19T03:40:16+00:00",
     "first_seen_at": "2026-11-06T08:36:54.145627+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -4945,7 +5169,7 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-03-17T12:07:11+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4961,7 +5185,23 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-03-10T13:00:25+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "0ff491e51d9235cbd625",
+    "url": "https://note.com/givemeyour/n/n77583ad2737a",
+    "title": "2026年3月1日の雑記",
+    "author_id": "givemeyour",
+    "published_at": "2026-03-01T07:19:19+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -4977,11 +5217,27 @@
     "author_id": "kkwus_nmomo",
     "published_at": "2026-02-27T06:02:31+00:00",
     "first_seen_at": "2026-11-06T12:26:08.744559+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
       "楽曲・歌詞考察"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "2cab6f109ae7d04853ff",
+    "url": "https://note.com/givemeyour/n/nad65aee1a39e",
+    "title": "2026年2月21日の雑記",
+    "author_id": "givemeyour",
+    "published_at": "2026-02-21T15:02:48+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
     ],
     "members": [],
     "songs": []
@@ -4993,7 +5249,7 @@
     "author_id": "kurikintom",
     "published_at": "2026-02-15T07:31:03+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -5009,7 +5265,7 @@
     "author_id": "kurikintom",
     "published_at": "2026-02-06T16:42:56+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5025,7 +5281,7 @@
     "author_id": "mio_yu_know",
     "published_at": "2026-01-12T14:21:37+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5041,11 +5297,27 @@
     "author_id": "wise_yarrow1996",
     "published_at": "2026-01-10T14:39:31+00:00",
     "first_seen_at": "2026-11-06T08:36:54.145627+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
       "ファンダム・ファン文化"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "dd155e9bae0e20006186",
+    "url": "https://note.com/givemeyour/n/ncf5ce6e1f0d2",
+    "title": "今更ながら「国宝」を見た話",
+    "author_id": "givemeyour",
+    "published_at": "2026-01-03T16:15:33+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
     ],
     "members": [],
     "songs": []
@@ -5057,7 +5329,7 @@
     "author_id": "ddmaru_saku",
     "published_at": "2025-12-29T03:08:06+00:00",
     "first_seen_at": "2026-11-06T13:35:43.389483+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -5069,13 +5341,31 @@
     "songs": []
   },
   {
+    "id": "8604a0651701a95bae5d",
+    "url": "https://note.com/givemeyour/n/n4c0f7b4a423c",
+    "title": "有馬記念2025の話",
+    "author_id": "givemeyour",
+    "published_at": "2025-12-28T13:17:47+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "pending",
+    "reason": "関連の手掛かりはあるが主題が不明",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [
+      "武元唯衣"
+    ],
+    "songs": []
+  },
+  {
     "id": "80f63ac6434a15a1ebe2",
     "url": "https://note.com/mio_yu_know/n/neefcfca5a27a",
     "title": "ユニエア解説〜スキル編〜",
     "author_id": "mio_yu_know",
     "published_at": "2025-12-23T14:30:52+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5091,7 +5381,7 @@
     "author_id": "mio_yu_know",
     "published_at": "2025-12-21T14:37:27+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5107,7 +5397,7 @@
     "author_id": "sola4959",
     "published_at": "2025-12-20T10:01:59+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -5126,7 +5416,7 @@
     "author_id": "mio_yu_know",
     "published_at": "2025-12-19T14:38:49+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5142,7 +5432,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-12-18T11:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5162,7 +5452,7 @@
     "author_id": "mio_yu_know",
     "published_at": "2025-12-17T16:42:07+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5178,7 +5468,7 @@
     "author_id": "keyasaku_4646",
     "published_at": "2025-12-17T13:46:57+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -5194,7 +5484,7 @@
     "author_id": "sola4959",
     "published_at": "2025-12-15T16:32:05+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5211,7 +5501,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-28T14:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5229,12 +5519,28 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-27T14:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
       "楽曲・歌詞考察",
       "グループ運営・アイドル論"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "41b9e0c0c2d5f9b3e664",
+    "url": "https://note.com/givemeyour/n/na3c9c693cdfc",
+    "title": "歩道橋",
+    "author_id": "givemeyour",
+    "published_at": "2025-11-24T09:26:30+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
     ],
     "members": [],
     "songs": []
@@ -5246,7 +5552,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-17T14:50:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5263,7 +5569,7 @@
     "author_id": "tkfuji",
     "published_at": "2025-11-15T14:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5274,13 +5580,49 @@
     "songs": []
   },
   {
+    "id": "3d1880bd61847269be68",
+    "url": "https://note.com/givemeyour/n/n781fd1f0f586",
+    "title": "Oasisを観た話",
+    "author_id": "givemeyour",
+    "published_at": "2025-11-03T08:23:20+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "e830e9569037e6a76b44",
+    "url": "https://note.com/givemeyour/n/n129e83029713",
+    "title": "拝啓、10月のトンボよ。",
+    "author_id": "givemeyour",
+    "published_at": "2025-10-31T14:00:48+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "楽曲・歌詞考察",
+      "ライブ・コンサート",
+      "グループ運営・アイドル論"
+    ],
+    "members": [],
+    "songs": [
+      "承認欲求"
+    ]
+  },
+  {
     "id": "8f5dbdb64c64324298d1",
     "url": "https://note.com/sola4959/n/nc823cb04b170",
     "title": "Memories of サクラミーツフェス～2年目の文化祭～",
     "author_id": "sola4959",
     "published_at": "2025-10-11T07:20:38+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5296,7 +5638,39 @@
     "author_id": "sola4959",
     "published_at": "2025-10-11T07:19:12+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "747a65dfa94c69b42120",
+    "url": "https://note.com/givemeyour/n/n48ea8df53419",
+    "title": "駆け足で振り返る来日ラッシュ",
+    "author_id": "givemeyour",
+    "published_at": "2025-09-30T10:15:20+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "status": "excluded",
+    "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
+    "categories": [
+      "その他の感想・批評"
+    ],
+    "members": [],
+    "songs": []
+  },
+  {
+    "id": "c490de6ef68bfd16cddf",
+    "url": "https://note.com/givemeyour/n/n428a25c506b2",
+    "title": "2025年9月24日の雑記",
+    "author_id": "givemeyour",
+    "published_at": "2025-09-24T08:58:29+00:00",
+    "first_seen_at": "2026-11-06T15:31:52.315425+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5312,7 +5686,7 @@
     "author_id": "sola4959",
     "published_at": "2025-09-12T14:14:51+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -5328,7 +5702,7 @@
     "author_id": "sola4959",
     "published_at": "2025-09-12T14:14:19+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -5345,7 +5719,7 @@
     "author_id": "sola4959",
     "published_at": "2025-09-12T14:13:36+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -5362,7 +5736,7 @@
     "author_id": "sola4959",
     "published_at": "2025-09-12T14:13:01+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -5379,7 +5753,7 @@
     "author_id": "lively_auklet75",
     "published_at": "2025-09-07T07:18:28+00:00",
     "first_seen_at": "2026-11-06T08:22:29.666301+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5395,7 +5769,7 @@
     "author_id": "sola4959",
     "published_at": "2025-08-31T15:24:54+00:00",
     "first_seen_at": "2026-11-06T08:20:14.880299+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5411,7 +5785,7 @@
     "author_id": "cozy_poppy3166",
     "published_at": "2024-12-31T09:42:04+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5427,7 +5801,7 @@
     "author_id": "cozy_poppy3166",
     "published_at": "2024-11-30T14:54:33+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5443,7 +5817,7 @@
     "author_id": "cozy_poppy3166",
     "published_at": "2024-11-27T14:42:05+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5459,7 +5833,7 @@
     "author_id": "bright_gnu360",
     "published_at": "2024-07-21T23:48:36+00:00",
     "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5475,7 +5849,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2024-05-13T11:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5494,7 +5868,7 @@
     "author_id": "bright_gnu360",
     "published_at": "2024-04-29T02:50:35+00:00",
     "first_seen_at": "2026-11-06T08:16:45.970900+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -5510,7 +5884,7 @@
     "author_id": "lively_auklet75",
     "published_at": "2024-01-07T14:45:23+00:00",
     "first_seen_at": "2026-11-06T08:22:29.666301+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5527,7 +5901,7 @@
     "author_id": "lively_auklet75",
     "published_at": "2023-11-12T14:04:52+00:00",
     "first_seen_at": "2026-11-06T08:22:29.666301+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5543,7 +5917,7 @@
     "author_id": "rush283",
     "published_at": "2023-04-06T02:32:26+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5559,7 +5933,7 @@
     "author_id": "rush283",
     "published_at": "2023-03-13T06:20:51+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5576,7 +5950,7 @@
     "author_id": "rush283",
     "published_at": "2023-03-03T07:51:38+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5596,7 +5970,7 @@
     "author_id": "rush283",
     "published_at": "2023-03-02T01:48:35+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5612,7 +5986,7 @@
     "author_id": "rush283",
     "published_at": "2023-02-22T06:29:24+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5632,7 +6006,7 @@
     "author_id": "hi0220",
     "published_at": "2023-02-16T11:08:44+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5649,7 +6023,7 @@
     "author_id": "rush283",
     "published_at": "2023-02-16T08:20:51+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5669,7 +6043,7 @@
     "author_id": "rush283",
     "published_at": "2023-02-09T08:19:13+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5685,7 +6059,7 @@
     "author_id": "rush283",
     "published_at": "2023-01-20T08:20:45+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5703,7 +6077,7 @@
     "author_id": "rush283",
     "published_at": "2022-12-12T07:49:26+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5722,7 +6096,7 @@
     "author_id": "rush283",
     "published_at": "2022-10-27T08:18:31+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5741,7 +6115,7 @@
     "author_id": "rush283",
     "published_at": "2022-09-29T08:23:31+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5757,7 +6131,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2022-09-17T11:17:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5773,7 +6147,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2022-09-17T11:15:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5789,7 +6163,7 @@
     "author_id": "rush283",
     "published_at": "2022-09-01T06:55:55+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5809,7 +6183,7 @@
     "author_id": "rush283",
     "published_at": "2022-08-08T08:19:39+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5826,7 +6200,7 @@
     "author_id": "rush283",
     "published_at": "2022-06-15T08:30:27+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5842,7 +6216,7 @@
     "author_id": "rush283",
     "published_at": "2022-06-10T02:13:30+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5858,7 +6232,7 @@
     "author_id": "rush283",
     "published_at": "2022-05-27T05:00:15+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5874,7 +6248,7 @@
     "author_id": "hi0220",
     "published_at": "2022-05-16T09:44:08+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5890,7 +6264,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2022-05-11T07:46:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5906,7 +6280,7 @@
     "author_id": "rush283",
     "published_at": "2022-05-10T08:40:25+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5925,7 +6299,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2022-03-31T13:35:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5941,7 +6315,7 @@
     "author_id": "rush283",
     "published_at": "2022-03-28T05:13:27+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5960,7 +6334,7 @@
     "author_id": "rush283",
     "published_at": "2022-03-11T08:54:59+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -5976,7 +6350,7 @@
     "author_id": "rush283",
     "published_at": "2022-02-25T01:43:22+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -5998,7 +6372,7 @@
     "author_id": "rush283",
     "published_at": "2022-01-11T08:43:08+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -6017,7 +6391,7 @@
     "author_id": "rush283",
     "published_at": "2021-12-09T02:26:45+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6034,7 +6408,7 @@
     "author_id": "hi0220",
     "published_at": "2021-10-28T12:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -6056,7 +6430,7 @@
     "author_id": "rush283",
     "published_at": "2021-09-30T01:09:32+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6072,7 +6446,7 @@
     "author_id": "rush283",
     "published_at": "2021-08-27T08:26:10+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -6091,7 +6465,7 @@
     "author_id": "rush283",
     "published_at": "2021-08-20T08:30:17+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "他グループ中心の可能性・比較内容の確認待ち",
     "categories": [
@@ -6109,7 +6483,7 @@
     "author_id": "hi0220",
     "published_at": "2021-04-14T23:13:12+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6127,7 +6501,7 @@
     "author_id": "hi0220",
     "published_at": "2021-04-13T12:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6143,7 +6517,7 @@
     "author_id": "hi0220",
     "published_at": "2021-03-28T10:17:13+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6161,7 +6535,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-11-24T10:35:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6179,7 +6553,7 @@
     "author_id": "hi0220",
     "published_at": "2020-11-16T05:51:51+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6195,7 +6569,7 @@
     "author_id": "hi0220",
     "published_at": "2020-11-07T12:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6215,7 +6589,7 @@
     "author_id": "hi0220",
     "published_at": "2020-11-02T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6231,7 +6605,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-25T14:32:32+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6249,7 +6623,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-23T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6265,7 +6639,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-18T11:12:38+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6282,7 +6656,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-15T09:39:33+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6298,7 +6672,7 @@
     "author_id": "hi0220",
     "published_at": "2020-10-01T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6314,7 +6688,7 @@
     "author_id": "hi0220",
     "published_at": "2020-09-26T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "関連の手掛かりはあるが主題が不明",
     "categories": [
@@ -6332,7 +6706,7 @@
     "author_id": "hi0220",
     "published_at": "2020-07-21T08:38:22+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6348,7 +6722,7 @@
     "author_id": "hi0220",
     "published_at": "2020-06-25T10:00:46+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "pending",
     "reason": "告知・自己紹介・宣伝の可能性",
     "categories": [
@@ -6364,7 +6738,7 @@
     "author_id": "hi0220",
     "published_at": "2020-06-24T10:00:05+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6380,7 +6754,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-06-13T13:10:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6396,7 +6770,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-04-18T13:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6413,7 +6787,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-04-14T13:30:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6430,7 +6804,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-03-28T11:20:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6448,7 +6822,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-03-23T10:20:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
@@ -6467,7 +6841,7 @@
     "author_id": "ryouta-mizuking",
     "published_at": "2020-03-15T10:00:00+00:00",
     "first_seen_at": "2026-11-06T06:15:34.715423+00:00",
-    "last_seen_at": "2026-11-06T15:25:47.720213+00:00",
+    "last_seen_at": "2026-11-06T15:31:52.315425+00:00",
     "status": "excluded",
     "reason": "取得できたRSSの範囲で関連性なし（全文は未確認）",
     "categories": [
