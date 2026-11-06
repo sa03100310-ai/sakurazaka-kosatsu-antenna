@@ -368,5 +368,14 @@
     "enabled": true,
     "verification": "2026-11-06、ユーザー提供の公開noteプロフィール画面で本人表示名「Haru」と櫻坂46『桜月』歌詞考察記事（公開2日前）を確認。記事数・人気・フォロワー数は掲載基準にしない。RSSの実取得と公開反映は次回GitHub Actionsで要検証。筆者個別の掲載許諾確認を意味しない。",
     "verified_at": "2026-11-06"
+  },
+  {
+    "id": "clever_beetle339",
+    "url": "https://note.com/clever_beetle339",
+    "feed": "https://note.com/clever_beetle339/rss",
+    "platform": "note",
+    "name": "clever_beetle339（確認待ち）",
+    "enabled": false,
+    "verification": "ユーザー指定URL。2026-11-06時点で公開noteプロフィール、櫻坂46関連記事、RSS実取得を確認できていないため、掲載せず候補として登録。記事内容およびRSSが確認できた時点で有効化する。"
   }
 ]
