@@ -48,6 +48,18 @@
     ]
   },
   {
+    "id": "cathouse",
+    "name": "cathouse",
+    "url": "https://note.com/cathouse",
+    "platform": "note",
+    "count": 25,
+    "themes": [
+      "楽曲・歌詞考察",
+      "ライブ・コンサート",
+      "グループ運営・アイドル論"
+    ]
+  },
+  {
     "id": "matobanaoki",
     "name": "matobanaoki",
     "url": "https://note.com/matobanaoki",
