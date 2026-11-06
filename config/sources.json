@@ -428,5 +428,15 @@
     "enabled": true,
     "verified_at": "2026-11-07",
     "verification": "公開note記事『【櫻坂46⑩】アイドルグローバルスタンダード』『【櫻坂46大園玲①】ゲラと毒』『【櫻坂46的野美青①】才能に酔いしれる』などで櫻坂46関連の考察を確認。RSSの実取得と公開反映は次回GitHub Actionsで要検証。筆者の個別掲載許諾を得たことを意味しない。"
+  },
+  {
+    "id": "givemeyour",
+    "url": "https://note.com/givemeyour",
+    "feed": "https://note.com/givemeyour/rss",
+    "platform": "note",
+    "name": "しめじジャンクション",
+    "enabled": true,
+    "verified_at": "2026-11-07",
+    "verification": "公開マガジン『櫻坂46について』で櫻坂46のライブ感想、卒業セレモニー、振り返りなど複数の本人投稿を確認。公式RSSの実取得はGitHub Actionsで検証。個別掲載許諾を得た意味ではない。"
   }
 ]

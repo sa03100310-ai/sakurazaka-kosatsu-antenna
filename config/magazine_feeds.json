@@ -13,5 +13,13 @@
     "magazine_url": "https://note.com/driftwood/m/mf9e78939860f",
     "require_relevance": true,
     "verification": "2026-11-07: マガジン『アイドル』は櫻坂46・乃木坂46・日向坂46などを含むため、収集時の櫻坂46関連性判定で公開対象を限定。元筆者の記事のみ。"
+  },
+  {
+    "author_id": "givemeyour",
+    "name": "櫻坂46について",
+    "feed": "https://note.com/givemeyour/m/m9044aeafb612/rss",
+    "magazine_url": "https://note.com/givemeyour/m/m9044aeafb612",
+    "require_relevance": true,
+    "verification": "2026-11-07: 公開マガジンに櫻坂46関連9本中複数記事を確認。一部の非関連記事を除くため関連性判定を有効化。本人執筆記事のみ。"
   }
 ]
