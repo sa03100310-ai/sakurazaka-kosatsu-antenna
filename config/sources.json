@@ -318,5 +318,15 @@
     "enabled": true,
     "verified_at": "2026-11-06",
     "verification": "公開noteのプロフィールと、櫻坂46・田村保乃についての連載『LOVE LETTER』を複数確認。RSSの実取得と公開反映は次のGitHub Actions実行で確認が必要。個別筆者の掲載許諾を得た意味ではない。"
+  },
+  {
+    "id": "driftwood",
+    "url": "https://note.com/driftwood",
+    "feed": "https://note.com/driftwood/rss",
+    "platform": "note",
+    "name": "driftwood",
+    "enabled": true,
+    "verified_at": "2026-11-06",
+    "verification": "公開noteの櫻坂46楽曲・歌詞考察、ライブ考察、アイドル論の複数の記事を確認。RSSの実取得と公開反映はGitHub Actions実行で検証が必要。個別筆者の掲載許諾を得た意味ではない。"
   }
 ]
