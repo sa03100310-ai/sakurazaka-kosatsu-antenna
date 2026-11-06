@@ -1,0 +1,17 @@
+name: 掲載取り下げ
+description: 記事やブログのリンク掲載を停止する申請
+title: '[取り下げ] '
+body:
+  - type: markdown
+    attributes:
+      value: '公開の申請欄です。氏名・住所・メールアドレスなどの個人情報は記載しないでください。GitHubアカウントとログインが必要です。投稿内容は誰でも閲覧できます。非公開での受付は現在用意していません。'
+  - type: input
+    id: url
+    attributes:
+      label: 取り下げるブログまたは記事のURL
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: 対応範囲（この記事のみ／ブログ全体）など

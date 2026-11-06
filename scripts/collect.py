@@ -1,0 +1,180 @@
+"""RSS/Atom only. No article scraping, no body storage, no third-party packages."""
+import argparse, datetime as dt, email.utils, hashlib, html, ipaddress, json, pathlib, re, socket, sys, time, unicodedata
+import urllib.request, urllib.error, urllib.parse, urllib.robotparser
+import xml.etree.ElementTree as ET
+from html.parser import HTMLParser
+ROOT=pathlib.Path(__file__).resolve().parents[1]
+UTC=dt.timezone.utc
+UA='SakuraEssayAntenna/1.0 (noncommercial RSS index)'
+LIMIT=4_000_000
+
+def read(path, default):
+    return json.loads(path.read_text(encoding='utf-8')) if path.exists() else default
+
+def write(path, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temp=path.with_suffix(path.suffix+'.tmp');temp.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');temp.replace(path)
+
+class Text(HTMLParser):
+    def __init__(self): super().__init__(); self.parts=[];self.skip=0
+    def handle_starttag(self,tag,attrs):
+        if tag in ('script','style'): self.skip+=1
+    def handle_endtag(self,tag):
+        if tag in ('script','style'): self.skip=max(0,self.skip-1)
+    def handle_data(self,data):
+        if not self.skip:self.parts.append(data)
+
+def plain(s):
+    p=Text();p.feed(s or '');return ' '.join(p.parts).strip()
+
+def norm(s):return re.sub(r'\s+','',unicodedata.normalize('NFKC',s)).casefold().replace('山崎天','山﨑天')
+
+def canonical(url):
+    p=urllib.parse.urlsplit(url.strip())
+    if p.scheme not in ('https','http') or not p.hostname or p.username or p.password: raise ValueError('unsafe article URL')
+    q=[(k,v) for k,v in urllib.parse.parse_qsl(p.query) if not k.lower().startswith('utm_') and k.lower() not in ('fbclid','gclid','ref','hl')]
+    return urllib.parse.urlunsplit((p.scheme,p.netloc.lower(),p.path,urllib.parse.urlencode(q),''))
+
+def safe_url(url):
+    p=urllib.parse.urlsplit(canonical(url))
+    if p.scheme!='https' or p.port not in (None,443):raise ValueError('HTTPS public endpoints only')
+    # Known publisher hosts also work through environments whose HTTPS proxy resolves DNS.
+    if p.hostname=='note.com' or p.hostname.endswith(('.hatenablog.com','.hatenablog.jp','.hateblo.jp')):return url
+    for addr in socket.getaddrinfo(p.hostname,443,type=socket.SOCK_STREAM):
+        if not ipaddress.ip_address(addr[4][0]).is_global:raise ValueError('Private address blocked')
+    return url
+
+class Redirect(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self,req,fp,code,msg,headers,newurl):
+        safe_url(newurl)
+        return super().redirect_request(req,fp,code,msg,headers,newurl)
+
+def fetch(url,headers=None):
+    safe_url(url)
+    req=urllib.request.Request(url,headers={'User-Agent':UA,**(headers or {})})
+    with urllib.request.build_opener(Redirect()).open(req,timeout=25) as r:
+        data=r.read(LIMIT+1)
+        if len(data)>LIMIT:raise ValueError('Feed exceeds 4 MB limit')
+        return data,dict(r.headers)
+
+def date(value):
+    try:d=dt.datetime.fromisoformat(value.replace('Z','+00:00'))
+    except (ValueError,AttributeError):
+        try:d=email.utils.parsedate_to_datetime(value)
+        except (ValueError,TypeError):return None
+    if not d or not d.tzinfo:return None
+    return d.astimezone(UTC).isoformat()
+
+def parse(data):
+    if b'<!DOCTYPE' in data.upper() or b'<!ENTITY' in data.upper():raise ValueError('DTD/entities not allowed')
+    root=ET.fromstring(data)
+    if root.tag.split('}')[-1] not in ('rss','feed','RDF'):raise ValueError('Not an RSS/Atom feed')
+    for item in root.iter():
+        if item.tag.split('}')[-1] not in ('item','entry'):continue
+        values={}
+        for node in item:
+            key=node.tag.split('}')[-1]
+            if key=='link' and node.attrib.get('href'):
+                if node.attrib.get('rel','alternate')=='alternate':values['link']=node.attrib['href']
+            elif node.text:values[key]=node.text
+        yield dict(title=html.unescape(values.get('title','')).strip(),url=values.get('link',''),published_at=date(values.get('pubDate') or values.get('published') or values.get('date')),text=plain(values.get('encoded') or values.get('content') or values.get('description') or values.get('summary') or ''))
+
+def song_match(song,text):
+    key=norm(song)
+    if key=='buddies':
+        return any(token in text for token in ('「buddies」','『buddies』','"buddies"','楽曲buddies'))
+    if re.fullmatch('[a-z]+',key):return bool(re.search(r'(?<![a-z])'+re.escape(key)+r'(?![a-z])',text))
+    return key in text
+
+def classify(title,text,rules):
+    t,b=norm(title),norm(text);whole=t+' '+b
+    members=[m for m in rules['members'] if norm(m) in whole]
+    songs=[s for s in rules['songs'] if song_match(s,whole)]
+    group=any(k in t for k in ['櫻坂','欅坂','sakurazaka','keyakizaka','そこさく','ちょこさく'])
+    member_title=any(norm(m) in t for m in members)
+    song_title=any(song_match(s,t) for s in songs)
+    body_group=any(k in b for k in ['櫻坂','欅坂','sakurazaka','keyakizaka'])
+    analysis=any(norm(k) in whole for k in ['考察','感想','批評','レビュー','ライブ','歌詞','MV','ダンス','パフォーマンス'])
+    if any(k in t for k in ['自己紹介','このnoteについて','お知らせ','販売開始','商品紹介','アフィリエイト']):status,reason='pending','告知・自己紹介・宣伝の可能性'
+    elif group or member_title:status,reason='published','タイトルにグループ・メンバー・番組名'
+    elif song_title and (body_group or analysis):status,reason='published','楽曲名と関連文脈'
+    elif any(k in t for k in ['乃木坂','日向坂','アイマス','akb']) and not group and not member_title:status,reason='pending','他グループ中心の可能性・比較内容の確認待ち'
+    elif body_group and analysis:status,reason='published','RSS本文にグループ名と考察・感想の文脈'
+    elif body_group or members or song_title:status,reason='pending','関連の手掛かりはあるが主題が不明'
+    elif not text:status,reason='pending','RSS本文がなく判定材料不足'
+    else:status,reason='excluded','取得できたRSSの範囲で関連性なし（全文は未確認）'
+    cats=[cat for cat,keys in rules['categories'].items() if any(norm(k) in whole for k in keys)]
+    if member_title and 'メンバー考察・人物論' not in cats:cats.insert(0,'メンバー考察・人物論')
+    if song_title and '楽曲・歌詞考察' not in cats:cats.append('楽曲・歌詞考察')
+    return status,reason,cats or ['その他の感想・批評'],members,songs
+
+def run(cache_dir=None):
+    now=dt.datetime.now(UTC);stamp=now.isoformat();rules=read(ROOT/'config/rules.json',{})
+    sources=read(ROOT/'config/sources.json',[]);overrides=read(ROOT/'config/overrides.json',{})
+    allowed={s['id'] for s in sources if s.get('enabled') and s['id'] not in overrides.get('blocked_authors',[])}
+    blocked={canonical(u) for u in overrides.get('blocked_urls',[])}
+    prior=read(ROOT/'state/articles.json',[])
+    records={a['url']:a for a in prior if a['author_id'] in allowed and a['url'] not in blocked}
+    state=read(ROOT/'state/feeds.json',{});statuses=[];robots={};success=0
+    for source in sources:
+        if source['id'] not in allowed:continue
+        sid=source['id'];url=source['feed'];log={'id':sid,'checked_at':stamp};old=state.get(sid,{})
+        try:
+            if cache_dir:
+                data=(pathlib.Path(cache_dir)/(sid+'.xml')).read_bytes();headers={}
+            else:
+                host=urllib.parse.urlsplit(url).netloc
+                if host not in robots:
+                    rp=urllib.robotparser.RobotFileParser()
+                    try:rd,_=fetch('https://'+host+'/robots.txt');rp.parse(rd.decode('utf-8').splitlines())
+                    except urllib.error.HTTPError as e:
+                        if e.code==404:rp.parse([])
+                        else:raise
+                    robots[host]=rp
+                if not robots[host].can_fetch(UA,url):raise ValueError('robots.txt disallows feed')
+                time.sleep(1)
+                cond={}
+                if old.get('etag'):cond['If-None-Match']=old['etag']
+                if old.get('modified'):cond['If-Modified-Since']=old['modified']
+                data,headers=fetch(url,cond)
+            items=list(parse(data))
+            if not items:raise ValueError('Empty feed; existing articles retained')
+            count=0
+            for item in items:
+                try:u=canonical(item['url'])
+                except ValueError:continue
+                if u in blocked or not item['title']:continue
+                # A feed may not publish links for a different site/author.
+                home=urllib.parse.urlsplit(source['url']);target=urllib.parse.urlsplit(u)
+                if target.hostname!=home.hostname or (home.hostname=='note.com' and not target.path.startswith(home.path.rstrip('/')+'/n/')):continue
+                status,reason,cats,members,songs=classify(item['title'],item['text'],rules)
+                published=item['published_at']
+                if not published or dt.datetime.fromisoformat(published)>now+dt.timedelta(minutes=10):status,reason='pending','公開日時が未確認・未来日'
+                override=overrides.get('articles',{}).get(u,{})
+                if published:status=override.get('status',status)
+                if status not in ('published','pending','excluded'):raise ValueError('Invalid article status override')
+                prev=records.get(u,{})
+                records[u]=dict(id=hashlib.sha256(u.encode()).hexdigest()[:20],url=u,title=item['title'],author_id=sid,published_at=prev.get('published_at') or published,first_seen_at=prev.get('first_seen_at',stamp),last_seen_at=stamp,status=status,reason=reason,categories=override.get('categories',cats),members=members,songs=songs)
+                count+=1
+            state[sid]={'etag':headers.get('ETag'),'modified':headers.get('Last-Modified'),'last_success':stamp}
+            log.update(status='ok',items=count,last_success=stamp);success+=1
+        except urllib.error.HTTPError as e:
+            if e.code==304:log.update(status='unchanged',last_success=stamp);old['last_success']=stamp;state[sid]=old;success+=1
+            else:log.update(status='error',error='HTTP '+str(e.code),last_success=old.get('last_success'))
+        except Exception as e:log.update(status='error',error=str(e)[:300],last_success=old.get('last_success'))
+        statuses.append(log)
+        print(sid,log['status'],log.get('items',''),log.get('error',''),flush=True)
+    # Apply moderation also to articles no longer present in recent feeds.
+    for u,a in records.items():
+        o=overrides.get('articles',{}).get(u,{})
+        if o.get('status') in ('published','pending','excluded') and a.get('published_at'):a['status']=o['status']
+        if 'categories' in o:a['categories']=o['categories']
+    articles=sorted(records.values(),key=lambda a:(a.get('published_at') or '',a['url']),reverse=True)
+    write(ROOT/'state/articles.json',articles);write(ROOT/'state/feeds.json',state)
+    write(ROOT/'state/review.json',[a for a in articles if a['status']!='published'])
+    report={'attempted_at':stamp,'successful_feeds':success,'total_feeds':len(statuses),'feeds':statuses,'counts':{s:sum(a['status']==s for a in articles) for s in ('published','pending','excluded')}}
+    write(ROOT/'state/status.json',report)
+    return 0 if success and success==len(statuses) else 2
+
+if __name__=='__main__':
+    p=argparse.ArgumentParser();p.add_argument('--cache-dir',help='Development only: pre-fetched RSS files');a=p.parse_args();sys.exit(run(a.cache_dir))

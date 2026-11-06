@@ -1,0 +1,19 @@
+name: 書き手の推薦・訂正
+description: 新規掲載候補や記事の訂正を管理者に知らせる
+title: '[掲載確認] '
+body:
+  - type: markdown
+    attributes:
+      value: '公開の申請欄です。個人情報や非公開の連絡先を入力しないでください。推薦は管理者が確認するまで公開されません。'
+  - type: input
+    id: url
+    attributes:
+      label: ブログまたは記事のURL
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 推薦理由または訂正内容
+    validations:
+      required: true

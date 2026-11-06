@@ -1,0 +1,8 @@
+{
+  "title": "櫻坂46考察アンテナ",
+  "repository_url": "https://github.com/sa03100310-ai/sakurazaka-kosatsu-antenna",
+  "contact_url": "https://github.com/sa03100310-ai/sakurazaka-kosatsu-antenna/issues/new?template=removal.yml",
+  "base_url": "https://sa03100310-ai.github.io/sakurazaka-kosatsu-antenna",
+  "public_release": true,
+  "interval_hours": 6
+}

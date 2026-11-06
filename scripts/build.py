@@ -1,0 +1,47 @@
+"""Publish metadata only; never copy review queues/feed bodies to dist."""
+import collections,html,json,pathlib,re,shutil,urllib.parse
+from collect import ROOT,read,write
+
+def build(public=False):
+ settings=read(ROOT/'config/settings.json',{})
+ if public:
+  if not settings.get('contact_url','').startswith('https://'):raise ValueError('一般公開前に config/settings.json の contact_url を設定してください')
+  if not re.fullmatch(r'https://github.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+',settings.get('repository_url','')):raise ValueError('repository_url を設定してください')
+  settings['public_release']=True
+ articles=[a for a in read(ROOT/'state/articles.json',[]) if a['status']=='published']
+ for a in articles:
+  for key in ['status','reason','last_seen_at']:a.pop(key,None)
+ sources=read(ROOT/'config/sources.json',[]);authors=[]
+ blocked=read(ROOT/'config/overrides.json',{}).get('blocked_authors',[])
+ for s in sources:
+  if not s.get('enabled') or s['id'] in blocked:continue
+  own=[a for a in articles if a['author_id']==s['id']]
+  authors.append({k:s[k] for k in ('id','name','url','platform')}|{'count':len(own),'themes':[c for c,n in collections.Counter(c for a in own for c in a['categories']).most_common(3)]})
+ authors.sort(key=lambda a:a['name'])
+ data={'articles':articles,'authors':authors,'settings':settings,'categories':list(read(ROOT/'config/rules.json',{})['categories']),'status':read(ROOT/'state/status.json',{})}
+ out=ROOT/'dist';out.mkdir(exist_ok=True)
+ for p in (ROOT/'web').iterdir():shutil.copy2(p,out/p.name)
+ write(out/'data/articles.json',articles);write(out/'data/authors.json',authors);write(out/'data/status.json',data['status'])
+ payload=json.dumps(data,ensure_ascii=False).replace('<','\\u003c').replace('\u2028','\\u2028').replace('\u2029','\\u2029')
+ (out/'data.js').write_text('window.ANTENNA='+payload+';\n',encoding='utf-8')
+ template=(ROOT/'web/index.html').read_text()
+ def fallback(rows):return '<ul>'+''.join('<li><a href="'+html.escape(a['url'],quote=True)+'">'+html.escape(a['title'])+'</a></li>' for a in rows)+'</ul>'
+ (out/'index.html').write_text(template.replace('<!-- FALLBACK -->',fallback(articles[:40])))
+ ad=out/'authors';shutil.rmtree(ad,ignore_errors=True);ad.mkdir()
+ for a in authors:
+  page=template.replace('<head>','<head><base href="../">').replace('<title>櫻坂46考察アンテナ｜個人の考察・批評・感想を読む</title>','<title>'+html.escape(a['name'])+'の記事｜櫻坂46考察アンテナ</title>')
+  page=page.replace('</head>','<script>window.PRESET_AUTHOR='+json.dumps(a['id'])+';</script></head>')
+  page=page.replace('<!-- FALLBACK -->',fallback([x for x in articles if x['author_id']==a['id']]))
+  (ad/(a['id']+'.html')).write_text(page)
+ (out/'contact.html').write_text((ROOT/'web/contact.html').read_text().replace('{{CONTACT_URL}}',html.escape(settings.get('contact_url',''),quote=True)))
+ (out/'.nojekyll').touch()
+ base=settings.get('base_url','').rstrip('/')
+ if base:
+  pages=[base+'/',base+'/contact.html']+[base+'/authors/'+a['id']+'.html' for a in authors]
+  (out/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+html.escape(u)+'</loc></url>' for u in pages)+'</urlset>')
+  (out/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+base+'/sitemap.xml\n')
+ else:(out/'robots.txt').write_text('User-agent: *\nDisallow: /\n')
+ print(f'Built {len(articles)} articles / {len(authors)} authors')
+if __name__=='__main__':
+ import argparse
+ p=argparse.ArgumentParser();p.add_argument('--public',action='store_true');build(p.parse_args().public)
