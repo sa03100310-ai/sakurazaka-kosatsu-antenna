@@ -10,6 +10,9 @@
  const date=s=>s?new Intl.DateTimeFormat('ja-JP',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(s)).replaceAll('/','.'):'公開日未確認';
  const day=s=>new Intl.DateTimeFormat('sv-SE',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(s));
  let state={},limit=30;
+ let randomRanks=new Map();
+ function reshuffle(){const items=[...D.articles];for(let i=items.length-1;i>0;i--){const k=Math.floor(Math.random()*(i+1));[items[i],items[k]]=[items[k],items[i]];}randomRanks=new Map(items.map((a,i)=>[a.url,i]));}
+ reshuffle();
  const controls=['author','member','song','platform','from','to','sort'];
  function options(id,items){$(id).insertAdjacentHTML('beforeend',items.map(([v,l])=>`<option value="${esc(v)}">${esc(l)}</option>`).join(''));}
  options('author',D.authors.map(a=>[a.id,a.name]));
@@ -29,13 +32,17 @@
    const author=byId[a.author_id];const hay=normalize([a.title,author.name,...a.members,...a.songs,...a.categories].join(' '));
    return state.q.trim().split(/\s+/).every(q=>hay.includes(normalize(q)))&&(!state.cat||a.categories.includes(state.cat))&&(!state.author||a.author_id===state.author)&&(!state.member||a.members.includes(state.member))&&(!state.song||a.songs.includes(state.song))&&(!state.platform||author.platform===state.platform)&&(!state.from||day(a.published_at)>=state.from)&&(!state.to||day(a.published_at)<=state.to);
   });
-  filtered.sort((a,b)=>state.sort==='old'?a.published_at.localeCompare(b.published_at)||a.url.localeCompare(b.url):b.published_at.localeCompare(a.published_at)||a.url.localeCompare(b.url));
-  if(state.sort==='balanced')filtered=balanced(filtered);
+  if(state.sort==='random')filtered.sort((a,b)=>randomRanks.get(a.url)-randomRanks.get(b.url));
+  else {
+   filtered.sort((a,b)=>state.sort==='old'?a.published_at.localeCompare(b.published_at)||a.url.localeCompare(b.url):b.published_at.localeCompare(a.published_at)||a.url.localeCompare(b.url));
+   if(state.sort==='balanced')filtered=balanced(filtered);
+  }
+  $('reshuffle').hidden=state.sort!=='random';
   const author=byId[state.author];$('author-profile').hidden=!author;
   if(author)$('author-profile').innerHTML=`<p class="eyebrow">WRITER</p><h2>${esc(author.name)}</h2><p>${esc(author.platform)} · 収集済み ${author.count} 記事</p><p>主なテーマ（自動集計）：${esc(author.themes.join(' / '))}</p><a href="${url(author.url)}" target="_blank" rel="noopener">書き手のサイトへ ↗</a>`;
   const has=state.q||state.cat||state.author||state.member||state.song||state.platform||state.from||state.to;
-  $('list-title').textContent=has?'条件に合う記事':state.sort==='old'?'過去の記事':state.sort==='balanced'?'書き手を交互に':'新着記事';
-  $('list-eyebrow').textContent=has?'EXPLORE ESSAYS':state.sort==='old'?'FROM THE ARCHIVE':'LATEST ESSAYS';
+  $('list-title').textContent=has?'条件に合う記事':state.sort==='old'?'過去の記事':state.sort==='balanced'?'書き手を交互に':state.sort==='random'?'ランダムに読む':'新着記事';
+  $('list-eyebrow').textContent=has?'EXPLORE ESSAYS':state.sort==='old'?'FROM THE ARCHIVE':state.sort==='random'?'DISCOVER AT RANDOM':'LATEST ESSAYS';
   $('result-count').textContent=`${filtered.length} 件${filtered.length>limit?` / ${limit} 件を表示`:''}`;
   $('articles').innerHTML=filtered.length?filtered.slice(0,limit).map(card).join(''):'<div class="empty"><p>この条件に合う記事はまだありません。</p><p>キーワードを短くするか、絞り込み条件を減らしてください。</p></div>';
   $('more').hidden=filtered.length<=limit;
@@ -53,7 +60,8 @@
  document.addEventListener('click',e=>{const c=e.target.closest('[data-category]');if(c){state.cat=c.dataset.category;state.view='articles';limit=30;save();return;}const nav=e.target.closest('[data-view]');if(nav){e.preventDefault();state.view=nav.dataset.view;save();}});
  $('search-form').addEventListener('submit',e=>{e.preventDefault();state.q=$('query').value;limit=30;save();});
  $('query').addEventListener('input',()=>{state.q=$('query').value;limit=30;render();});
- controls.forEach(id=>$(id).addEventListener('change',()=>{state[id]=$(id).value;limit=30;save();}));
+ controls.forEach(id=>$(id).addEventListener('change',()=>{state[id]=$(id).value;if(id==='sort'&&state.sort==='random')reshuffle();limit=30;save();}));
+ $('reshuffle').addEventListener('click',()=>{reshuffle();limit=30;render();});
  $('reset').addEventListener('click',reset);$('more').addEventListener('click',()=>{limit+=30;render();});
  $('past-shortcut').addEventListener('click',()=>{const d=new Date();d.setMonth(d.getMonth()-3);state.to=day(d.toISOString());state.sort='new';state.view='articles';limit=30;sync();save();});
  window.addEventListener('popstate',readState);readState();
