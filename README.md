@@ -1,9 +1,9 @@
 # 櫻坂46考察アンテナ
 
 実在するnote・はてなブログのRSSを使う、個人の考察・批評・感想へのリンク集です。
-公開先：https://github.com/sa03100310-ai/sakurazaka-kosatsu-antenna
+公開先：https://github.com/sakura-essays/sakurazaka-kosatsu-antenna
 
-サイト： https://sa03100310-ai.github.io/sakurazaka-kosatsu-antenna/
+サイト： https://sakura-essays.github.io/sakurazaka-kosatsu-antenna/
 
 現在の公開・更新状況はリポジトリのActionsとサイトの取得状況を確認してください。
 
@@ -30,12 +30,12 @@
 
 ## 公開設定と連絡窓口
 
-公開リポジトリは `sa03100310-ai/sakurazaka-kosatsu-antenna`、既定ブランチは `main` です。
+公開リポジトリは `sakura-essays/sakurazaka-kosatsu-antenna`、既定ブランチは `main` です。
 PagesのSourceはGitHub Actionsを使用します。未有効の場合はSettings → Pages → SourceでGitHub Actionsを選んでください。
 
 更新予定は日本時間03:17 / 09:17 / 15:17 / 21:17です。GitHub側の都合で遅延・欠落する場合があります。
 
-掲載取り下げは [専用Issueフォーム](https://github.com/sa03100310-ai/sakurazaka-kosatsu-antenna/issues/new?template=removal.yml) で受け付けます。GitHubアカウントが必要で、投稿は公開されます。個人情報を投稿しないようサイトとフォームに明記しています。個人メールアドレスは掲載していません。
+掲載取り下げは [専用Issueフォーム](https://github.com/sakura-essays/sakurazaka-kosatsu-antenna/issues/new?template=removal.yml) で受け付けます。GitHubアカウントが必要で、投稿は公開されます。個人情報を投稿しないようサイトとフォームに明記しています。個人メールアドレスは掲載していません。
 
 将来のフォーム変更は `config/settings.json` の `contact_url` を変更すると、サイト内の連絡先も更新されます。その際は `web/contact.html` の受付条件も新しい窓口に合わせて変更してください。
 
