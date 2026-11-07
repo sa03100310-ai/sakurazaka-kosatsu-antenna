@@ -41,8 +41,8 @@ RSS公開日、Atomのpublished/updated区別、日時不明、タイトルだ�
 
 ## 一般公開後の確認（2026年11月6日）
 
-- 公開サイト：https://sa03100310-ai.github.io/sakurazaka-kosatsu-antenna/
-- 公開リポジトリ：https://github.com/sa03100310-ai/sakurazaka-kosatsu-antenna
+- 公開サイト：https://sakura-essays.github.io/sakurazaka-kosatsu-antenna/
+- 公開リポジトリ：https://github.com/sakura-essays/sakurazaka-kosatsu-antenna
 - PagesのSourceをGitHub Actionsに設定し、HTTPS公開を確認。
 - Actions実行 42177254729 の再実行（job 127765384024）が成功。テスト、RSS収集、累積保存、サイト生成、Pagesデプロイまで成功。
 - 公開画面に23人・294記事、最終取得2026年11月6日16:13 JSTを表示。
