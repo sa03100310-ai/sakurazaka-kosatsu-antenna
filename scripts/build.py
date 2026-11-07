@@ -1,10 +1,30 @@
 """Publish metadata only; never copy review queues/feed bodies to dist."""
-import collections,html,json,pathlib,re,shutil,urllib.parse
+import collections,html,json,os,pathlib,re,shutil,urllib.parse
 from collect import ROOT,read,write
+
+def sync_github_owner(settings):
+ """Keep Pages and Issue URLs valid after a GitHub account rename."""
+ slug=os.environ.get('GITHUB_REPOSITORY','')
+ m=re.fullmatch(r'([A-Za-z0-9][A-Za-z0-9-]*)/([A-Za-z0-9_.-]+)',slug)
+ if not m:return
+ owner,name=m.groups()
+ old_repo=settings.get('repository_url','')
+ new_repo=f'https://github.com/{owner}/{name}'
+ # Only update links that still target this very repository.
+ if old_repo==new_repo or not old_repo.startswith('https://github.com/') or not old_repo.endswith('/'+name):return
+ old_contact=settings.get('contact_url','')
+ if old_contact.startswith(old_repo+'/issues/'):
+  settings['contact_url']=new_repo+old_contact[len(old_repo):]
+ old_base=settings.get('base_url','')
+ if re.fullmatch(r'https://[A-Za-z0-9-]+\.github\.io/'+re.escape(name)+r'/?',old_base):
+  settings['base_url']=f'https://{owner}.github.io/{name}'
+ settings['repository_url']=new_repo
+ write(ROOT/'config/settings.json',settings)
 
 def build(public=False):
  settings=read(ROOT/'config/settings.json',{})
  if public:
+  sync_github_owner(settings)
   if not settings.get('contact_url','').startswith('https://'):raise ValueError('一般公開前に config/settings.json の contact_url を設定してください')
   if not re.fullmatch(r'https://github.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+',settings.get('repository_url','')):raise ValueError('repository_url を設定してください')
   settings['public_release']=True
